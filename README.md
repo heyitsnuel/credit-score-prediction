@@ -1,4 +1,34 @@
-#### This repo contains a technical assignment that I was given when applying for a Data Scientist job.
-#### Tl;dr, there are 3 datasets related to customer loans, and they want to use it to build a prediction for credit score, in order to imporve the risk management strategy of the company.
-#### The assignment is done in Python, and it uses [SQL Alchemy](https://www.sqlalchemy.org/) to query the datasets easier. The credit score prediction is done using [XGBoost](https://xgboost.readthedocs.io/).
-#### The Python notebook is the one named `credit_score_prediction.ipynb`, and the datasets can be found in the `data` directory.
+# Credit Score Prediction
+
+This repository contains the technical assignment for a Data Scientist job, which includes a credit score prediction project.
+
+## Description
+The goal of the project is to use three datasets related to customer loans to build a prediction model for credit score. The prediction model will help improve the risk management strategy of the company.
+
+## Tools Used
+The project is implemented using Python and [SQL Alchemy](https://www.sqlalchemy.org/) to query the datasets easier. The credit score prediction model is built using [XGBoost](https://xgboost.readthedocs.io/).
+
+## Files
+credit_score_prediction.ipynb: The Jupyter notebook containing the implementation of the project.
+/data: The directory containing the three datasets used in the project.
+
+## Getting Started
+To get started with the project, follow these steps:
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Open the credit_score_prediction.ipynb notebook using Jupyter.
+4. Follow the instructions in the notebook to run the project.
+
+## Dependencies
+The project requires the following dependencies:
+
+1. Python 3.x
+2. SQL Alchemy
+3. Seaborn
+4. Matplotlib
+4. Scikitlearn
+3. XGBoost
+
+## Credits
+This project was developed by Immanuel Ambhara as part of a technical assignment for a Data Scientist job.
