@@ -9,8 +9,8 @@ The goal of the project is to use three datasets related to customer loans to bu
 The project is implemented using Python and [SQL Alchemy](https://www.sqlalchemy.org/) to query the datasets easier. The credit score prediction model is built using [XGBoost](https://xgboost.readthedocs.io/).
 
 ## Files
-credit_score_prediction.ipynb: The Jupyter notebook containing the implementation of the project.
-/data: The directory containing the three datasets used in the project.
+1. credit_score_prediction.ipynb: The Jupyter notebook containing the implementation of the project.
+2. /data: The directory containing the three datasets used in the project.
 
 ## Getting Started
 To get started with the project, follow these steps:
