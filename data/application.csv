@@ -1,0 +1,498 @@
+,cdate,application_id,customer_id,loan_purpose,loan_purpose_desc,dob,address_provinsi,marital_status,dependent,job_type,job_industry
+0,2021-01-07 13:45:43.876693+00:00,2004025695250,2003023548799.0,Modal usaha,untuk usaha membuat makanan / camilan / kue,2000-01-06,Banten,Lajang,1.0,Pegawai swasta,Admin / Finance / HR
+1,2021-01-14 15:56:27.403268+00:00,2004025736661,2003023567116.0,Modal usaha,saya ingin menambah modal saya untuk berjualan. berdagang.,1986-07-22,Banten,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+2,2021-02-07 05:21:46.225530+00:00,2004025885365,2003023442469.0,Kebutuhan sehari-hari,banyak pengeluaran bulan ini jadi ngk ketutup dengan gaji,,,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+3,2021-04-22 07:15:09.482447+00:00,2004026435734,2003023912156.0,Modal usaha,,1996-01-16,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+4,2021-02-07 14:57:21.120284+00:00,2004025890269,2003023639117.0,Renovasi Rumah,Untuk renovasi rumah yg saat ini ada masalah pada bagian atap dan pagar rumah,1992-06-13,,,0.0,Pegawai swasta,Sales / Marketing
+5,2021-05-12 06:17:10.818777+00:00,2004026582292,2003023805529.0,Kebutuhan sehari-hari,,1984-04-24,Jawa Barat,Menikah,1.0,,Service
+6,2021-01-09 08:56:42.650351+00:00,2004025703643,2003021445342.0,Renovasi Rumah,untuk merenovasi rumah yang saya tempati,1983-03-26,JAWA BARAT,Menikah,2.0,Pegawai swasta,Entertainment / Event
+7,2021-02-08 11:11:08.977495+00:00,2004025897764,2003023642946.0,,"membeli peralatan dan kebutuhan rumah tangga,",,,,1.0,Pegawai swasta,Service
+8,2021-01-10 08:38:49.024720+00:00,2004025708676,2003022313019.0,Biaya pendidikan,"Menunjang belajar online berupa komputer, modem internet,dan keperluan sekolah lainnya",1974-11-03,Banten,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+9,2021-06-03 17:41:00.365077+00:00,2004026732863,2003024086939.0,Modal usaha,"menambah modal usaha yang akan dirintis,bekerja sama dengan kerabat untuk mendirikan usaha kecil.",,DKI Jakarta,Lajang,0.0,Pegawai swasta,Kesehatan
+10,,2004026430800,,Biaya pendidikan,bayar uang wisuda yang sudah jatuh tempo tanggal 25 april,1985-01-02,Jawa Barat,Menikah,1.0,Pegawai swasta,
+11,2020-12-22 03:04:32.329216+00:00,2004025607633,2003022714810.0,Modal usaha,,1980-06-04,DKI Jakarta,Cerai,1.0,Pegawai swasta,Admin / Finance / HR
+12,2021-02-05 07:57:43.608429+00:00,2004025871472,2003023629354.0,Biaya kesehatan,biaya kesehatan orang tua di kampung ( transfer kampung),1999-10-19,DKI Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+13,2021-04-04 05:05:38.216675+00:00,2004026292493,2003022998072.0,Renovasi Rumah,untuk membangun rumah di kp Tanggeung cianjur selatan,1995-02-05,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+14,2021-01-10 12:49:22.686743+00:00,2004025709801,2003023555100.0,Modal usaha,sebagai modal usaha kecil untuk tambahan pendapatan/penghasilan,1989-03-19,Jawa Barat,,1.0,Pegawai swasta,Pendidikan
+15,2021-11-09 08:17:38.504584+00:00,2004028143024,2003022410749.0,Biaya pendidikan,untuk pembayaran spp bulanan bulan nopember 2021,1972-07-28,Jawa Barat,Menikah,3.0,Pegawai negeri,Admin / Finance / HR
+16,2021-02-09 08:04:30.382148+00:00,2004025903522,2003023248090.0,Kebutuhan sehari-hari,biaya hidup yang semakin tinggi dan kebutuhan yang tak terduga,1985-08-13,,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+17,2021-02-08 07:25:32.968187+00:00,2004025896310,2003023642256.0,Modal usaha,supaya bisa berdagang dan bisa mendaoat penghasilan tambahan,1976-06-04,Dki Jakarta,,3.0,,Kesehatan
+18,2020-12-18 11:22:07.519904+00:00,2004025589544,2003023503682.0,Modal usaha,modal usaha roti bakar dan cireng isi pisang keju coklat,1991-08-27,,Menikah,0.0,Pegawai swasta,Pabrik / Gudang
+19,2021-04-22 08:17:55.305223+00:00,2004026436358,2003023912534.0,Modal usaha,untuk modal usaha tambah modal buat warung dan jual pulsa,1990-02-13,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+20,2020-12-28 02:07:14.085537+00:00,2004025635280,2003023524455.0,Modal usaha,,1984-03-26,,Lajang,0.0,Pengusaha,Perhotelan
+21,2021-01-14 09:18:40.281482+00:00,2004025734336,2003023565887.0,Modal usaha,"saya mau membuat usaha sembako di rumah , jualan aneka makan  ,",1985-09-05,Jawa Barat,Lajang,0.0,Pegawai swasta,
+22,2021-02-10 00:11:01.884478+00:00,2004025907167,2003022713553.0,Modal usaha,mau mencoba berwirausaha pempek dan cuanki gerobak,1994-02-20,Jawa Barat,Menikah,0.0,Pegawai swasta,Perhotelan
+23,2021-01-16 06:02:52.404198+00:00,2004025746226,2003023571607.0,Kebutuhan sehari-hari,untuk membeli skin care perawatan wajah saya dan keperluan lainnya,1984-11-01,Jawa Barat,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+24,2021-03-12 05:00:16.396846+00:00,2004026127656,,,untuk modal usaha biar mempunyai sampingan,1999-01-05,Banten,,0.0,Pegawai swasta,Pabrik / Gudang
+25,2020-12-31 04:40:05.752194+00:00,2004025654379,2003023532209.0,Modal usaha,membuat usaha kecil kecilan seperti warung atau kafe kecil minuman dan makanan ringan,1988-05-03,Nanggroe Aceh Darussalam (nad),Menikah,1.0,,Pendidikan
+26,2021-01-01 04:55:19.903238+00:00,2004025659077,2003022078640.0,Biaya liburan / umroh,"liburan awal tahun 2021 ,,ke sabang atau bali",1994-10-18,Sumatera Utara,Lajang,,Pegawai swasta,Sales / Marketing
+27,2021-02-10 06:45:57.696570+00:00,2004025910271,2003023648774.0,Biaya pendidikan,untuk membayar uang sekolah anak dan membeli kebutuhan rumah tangga,1986-05-30,Bali,Menikah,1.0,Pengusaha,Service
+28,2021-01-02 03:43:26.620238+00:00,2004025663861,2003023073376.0,Modal usaha,untuk menambah modal usaha pulsa yang mau berjalan tiga bulan,1982-02-09,DKI Jakarta,Menikah,4.0,Pegawai swasta,Konstruksi / Real Estate
+29,2021-06-25 11:10:10.255761+00:00,2004026886994,2003023894338.0,Kebutuhan sehari-hari,kebutuhan seharihari .sisanya buat modal jualan kecil2lan,1987-12-10,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+30,2021-01-01 08:25:59.977991+00:00,2004025660081,2003023534636.0,,,1999-09-12,Banten,Menikah,1.0,Pegawai swasta,Sales / Marketing
+31,2021-02-24 06:39:03.278840+00:00,2004026009327,2003023698309.0,Modal usaha,saya memulai usaha jualan...sebagai drhopsip,1986-07-12,Sumatera Utara,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+32,2021-05-14 13:43:34.681938+00:00,2004026591572,2003020858927.0,,"buat renovasi rumah di kampung,tolong pinjami donk,masak bolak balik ngajuin di tolak terus,makasih",1985-06-11,Jawa Timur,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+33,2021-09-03 12:24:35.335246+00:00,2004027400828,2003021491317.0,Modal usaha,,1986-05-09,Jawa Barat,Menikah,,Pegawai swasta,Sales / Marketing
+34,,2004025806390,2003022246476.0,Renovasi Rumah,"Belikan spandek,untuk buat atap rumah,karena sudah pada rusak.",1995-10-05,Kepulauan Riau,Lajang,0.0,Pegawai swasta,Hukum / Security / Politik
+35,2021-05-29 16:34:05.202000+00:00,2004026691463,,Renovasi Rumah,,1991-05-25,DKI Jakarta,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+36,2021-02-01 01:21:59.798545+00:00,2004025844701,,Renovasi Rumah,tambahan biaya renovasi rumah karena rumahnya sudah banyak yg bocor bocor,1992-04-09,Jawa Barat,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+37,2021-02-24 14:17:18.376785+00:00,2004026013541,2003023700696.0,Membeli elektronik,benerin motor karna rusak gajian masih beberapa hari lagi,,Dki Jakarta,Menikah,1.0,Pegawai swasta,Service
+38,2021-03-15 03:22:42.979606+00:00,2004026148774,2003023767861.0,Modal usaha,modalin istri buka usaha jasa pembuatan mahar pernikahan & bunga rangkai,1990-04-18,DKI Jakarta,Menikah,1.0,Pegawai swasta,Hukum / Security / Politik
+39,2021-04-23 05:33:36.541038+00:00,2004026444138,,Kebutuhan sehari-hari,,,,Lajang,0.0,,Service
+40,2021-03-17 23:09:45.648844+00:00,2004026173754,2003023780947.0,Kebutuhan sehari-hari,,1985-07-25,Jawa Barat,Cerai,1.0,Pegawai swasta,Perbankan
+41,2021-05-15 10:33:55.346917+00:00,2004026596408,2003024005114.0,Modal usaha,Untuk modal usaha jual makanan ringan alat2 dan barang yg di perlukan.,1962-05-25,Bali,Janda / duda,1.0,Pegawai swasta,Sales / Marketing
+42,2021-03-16 05:33:00.877245+00:00,2004026160006,2003021446434.0,Modal usaha,"untuk modal usaha, jual pakaian seperti jaket, celana, baju, bekas .",1993-04-22,Banten,,0.0,Pegawai swasta,Service
+43,2021-03-18 06:24:06.446478+00:00,2004026177189,2003023782719.0,Modal usaha,"saya mau meluaskan usaha saya , saya menjual bakso",1988-01-16,Dki Jakarta,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+44,2021-06-03 02:32:47.619427+00:00,2004026725822,2003020658390.0,Modal usaha,ingin memulai usaha kecil kecilan semoga di acc aamiin,1998-04-12,DKI Jakarta,Lajang,0.0,Pegawai swasta,Transportasi
+45,,2004026180220,2003023784292.0,Modal usaha,,1985-04-02,,Menikah,2.0,Pegawai swasta,Transportasi
+46,,2004026057065,2003023722532.0,Kebutuhan sehari-hari,Untuk kebutuhan sehari hari dan membeli electronic,1993-06-27,Jawa Barat,Menikah,1.0,Pegawai swasta,Pendidikan
+47,2021-01-01 02:24:50.097343+00:00,2004025658398,2003023533929.0,Modal usaha,"membuat usaha dalam bentuk makanan, seperti angkringan",1999-05-17,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+48,2021-03-03 22:29:22.008972+00:00,2004026068444,2003023728286.0,,melunasi sisa hutang 815.000 di dbs dan kartu kredit BCA,1968-04-20,Jawa Barat,Lajang,0.0,Pegawai swasta,
+49,2021-03-10 03:40:23.779289+00:00,2004026110503,2003023748179.0,Modal usaha,"modal usaha ikan hias, seperti peralan, sarana",1991-08-23,Kepulauan Riau,Menikah,1.0,Pegawai swasta,Konstruksi / Real Estate
+50,,2004026859285,2003024164243.0,Modal usaha,"untuk modal usaha rumahan istri dirumah, agar dapat membantu ekonomi keluarga",1988-09-27,Dki Jakarta,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+51,2021-04-09 04:08:22.639848+00:00,2004026326002,2003022538674.0,,untuk nambah modal usaha dibidang skincare ms glow,,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+52,2021-11-05 14:47:20.419623+00:00,2004028091347,2003023593505.0,Kebutuhan sehari-hari,"untuk keperluan sehari hari, untuk kebutuhan pokok",,Jawa Tengah,Menikah,2.0,Pegawai swasta,Transportasi
+53,2021-08-11 07:09:44.810136+00:00,2004027202280,2003024380540.0,Modal usaha,"untuk modal usaha bersama istri,untuk menambah pemasukan tiap bulan",1995-05-05,,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+54,2021-07-06 08:52:22.642550+00:00,2004026960558,,Modal usaha,"tambah modal usaha home industry, produk kue",1988-11-11,Jawa Barat,Lajang,0.0,Pegawai swasta,Service
+55,2021-04-26 05:31:22.071428+00:00,2004026468094,2003023273707.0,Renovasi Rumah,untuk memperbaiki atap rumah yang pada bocor,1989-11-15,Jawa Barat,Menikah,,Pegawai swasta,Pendidikan
+56,2021-04-26 10:10:24.402748+00:00,2004026470520,2003023932177.0,Transfer ke Keluarga/Teman,,,DKI Jakarta,Lajang,0.0,Pegawai swasta,Tehnik / Computer
+57,2021-05-25 12:18:06.295307+00:00,2004026660858,2003020308160.0,Kebutuhan sehari-hari,"untuk membeli kebutuhan sehari hari , sandang pangan",,DKI Jakarta,Lajang,,Pegawai swasta,Kesehatan
+58,2021-04-25 23:06:33.887891+00:00,2004026465231,2003023812719.0,Modal usaha,Untuk modal usaha jualan ikan cupang dan accesorisnya,1992-10-25,Jawa Barat,,1.0,Pegawai swasta,Admin / Finance / HR
+59,2021-07-12 09:44:37.830627+00:00,2004027000970,2003022373010.0,Kebutuhan sehari-hari,"kebutuhan mendadak, pengeluaran tak terduga",1997-05-24,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+60,2021-06-05 06:28:38.238082+00:00,2004026745497,2003024094266.0,Kebutuhan sehari-hari,Kebutuhan sehari-hari dan untuk berobat karna kebijakan dari perusahaan,1997-12-02,Jawa Tengah,Lajang,0.0,,Admin / Finance / HR
+61,2021-07-07 06:15:04.520086+00:00,2004026967548,2003024219816.0,Modal usaha,sebagai modal usaha untuk di belanjakan bahan dan keperluan usaha,1994-05-26,Dki Jakarta,Lajang,0.0,Pegawai swasta,
+62,2021-07-08 01:01:28.458649+00:00,2004026972267,,Renovasi Rumah,Utuk renofasi rumah dan membeli peralatan rumah tangga,1996-08-20,Jawa Barat,Lajang,0.0,Pegawai swasta,Kesehatan
+63,2021-04-30 01:55:12.671982+00:00,2004026497195,2003022324152.0,Biaya pendidikan,,1963-08-05,Banten,Menikah,3.0,Pegawai swasta,Sales / Marketing
+64,2021-05-06 12:53:44.436570+00:00,2004026544247,2003023973682.0,Membayar hutang lainnya,Untuk Keperluan Sehari Hari dan Sebagian Untuk Bayar Hutang Makan,1983-08-07,Kalimantan Barat,Lajang,,Pegawai swasta,Staf Rumah Tangga
+65,2021-05-18 07:36:38.166498+00:00,2004026614100,2003024014902.0,Modal usaha,untuk tambahan modal usaha kuliner kecil kecilan,1981-05-24,Kalimantan Barat,Menikah,2.0,Pegawai swasta,Sales / Marketing
+66,2021-05-01 23:12:05.376727+00:00,2004026510060,2003023954221.0,Biaya pendidikan,untuk biaya keperluan anak sekolah dan membayar iuran sekolah anak sekolah swasta,1974-04-17,DKI Jakarta,Menikah,1.0,Pegawai swasta,Hukum / Security / Politik
+67,2021-05-01 03:46:13.282748+00:00,2004026504393,2003023951019.0,,,1997-07-15,DKI Jakarta,Lajang,0.0,,Admin / Finance / HR
+68,2021-10-23 05:14:03.777588+00:00,2004027919751,2003021410673.0,Modal usaha,"membuka usaha conter pulsa dan warung sembako, dan menabah warung makan",1994-05-11,JAWA BARAT,,0.0,Pegawai swasta,Pabrik / Gudang
+69,2021-05-17 11:18:01.763544+00:00,2004026608402,,Biaya pendidikan,untuk membayar uang daftar ulang sekolah adik karena belum gajian,1999-12-11,Jawa Timur,Menikah,0.0,Pegawai swasta,Admin / Finance / HR
+70,2021-05-04 03:44:39.312076+00:00,2004026524706,2003023962235.0,Modal usaha,saya ingin menjual buah2an .dn ing menambah modal,1992-08-28,Bali,Menikah,2.0,Pegawai swasta,Perhotelan
+71,2021-05-04 14:57:31.315772+00:00,2004026529885,2003020925045.0,Modal usaha,saya ingin punya usaha sendiri agar bisa memperbaiki masalah  ekonomi saya,1995-11-19,,Lajang,3.0,Pegawai negeri,Pabrik / Gudang
+72,2021-06-07 17:39:23.810756+00:00,2004026762017,2003022195942.0,Renovasi Rumah,"ingin renofasi rumah, bagian kamar dan kamar mandi",1989-07-08,DKI Jakarta,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+73,2021-04-24 01:47:18.798512+00:00,2004026451036,2003023920907.0,Modal usaha,Modal utk jualan jajanan basah dan nasi jinggo,1988-03-01,Bali,,0.0,Pegawai swasta,Admin / Finance / HR
+74,,2004026541955,2003023867275.0,,kebutuhan sehari..hari untuk memenuhi kebutuhan rumah tangga,1983-04-04,Jawa Barat,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+75,2021-05-07 06:22:52.780590+00:00,2004026548483,2003023855093.0,,"untuk modal usaha online di online shop ,dll",1989-06-28,,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+76,2021-05-23 05:51:04.996893+00:00,2004026646059,2003024034057.0,Kebutuhan sehari-hari,untuk membeli kebutuhan pokok dan biaya sehari-hari.,1993-04-23,Banten,Menikah,0.0,Pegawai swasta,Hukum / Security / Politik
+77,2021-01-14 05:30:37.365318+00:00,2004025732529,2003023565008.0,Modal usaha,untuk membuka usaha sendiri yaitu bisnis clothing line,1997-05-18,Jawa Barat,Lajang,0.0,Pegawai swasta,Kesehatan
+78,2021-08-10 16:24:55.500146+00:00,2004027199079,2003024378493.0,Renovasi Rumah,"untuk renovasi rumah,pembelian matrial dan bayar tukang",1972-03-14,Banten,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+79,2021-05-29 04:30:36.111249+00:00,2004026686912,2003023017678.0,,"ingin mengganti HP baru, dan membeli laptop baru agar mempermudah pekerjaan",1992-08-18,Sumatera Utara,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+80,2021-01-13 23:53:17.586662+00:00,2004025730111,2003023114467.0,Biaya pendidikan,Pembayaran Biaya skripsi & Sarjana yang akan dilaksanakan pada saat bulan februari 2021,1995-01-31,Sulawesi Selatan,Lajang,,Pegawai swasta,Admin / Finance / HR
+81,2021-06-14 01:31:30.438441+00:00,2004026806506,2003024130587.0,Renovasi Rumah,"untuk renovasi rumah, karena masih kurang dana kurang sedikit",1997-12-15,Jawa Tengah,,2.0,,Pabrik / Gudang
+82,2021-07-03 04:08:01.088755+00:00,2004026940063,2003024008550.0,Membeli kendaraan,untuk membeli kendaraan dananya masih kurang,1996-10-29,DKI Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+83,2021-06-15 11:50:42.374460+00:00,2004026818830,2003024047298.0,Modal usaha,"ada borongan pekerjaa pemasangan ACP,borongan tenaga sama bahan",1986-05-13,Jawa Tengah,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+84,2021-10-26 11:11:14.609337+00:00,2004027957237,2003024884043.0,Kebutuhan sehari-hari,Untuk Memenuhi Kebutuhan Sehari Hari dan Untuk Memenuhi Biaya Tak Terduga,1984-09-07,Sulawesi Utara,Lajang,0.0,Pegawai negeri,Pendidikan
+85,2020-12-16 10:52:33.527323+00:00,2004025579060,2003022540354.0,Biaya kesehatan,untuk membantu saya dalam kendala biaya kesehatan.,1987-10-01,DKI Jakarta,Menikah,1.0,Pegawai swasta,Perhotelan
+86,2021-05-23 11:21:34.760894+00:00,2004026647976,2003024035315.0,,untuk tambahan modal usaha dagang sang istri,1979-11-12,Jawa Timur,Menikah,2.0,,Pabrik / Gudang
+87,2021-03-14 12:39:41.341342+00:00,2004026144812,2003023765785.0,Modal usaha,untuk tambahan modal usaha dan biaya kehidupan sehari2,1986-11-01,Riau,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+88,2021-10-11 12:56:29.337556+00:00,2004027792593,2003024773072.0,Modal usaha,untuk modal jualan dirumah buka toko dirumah,1995-07-01,Jawa Timur,Menikah,2.0,Pegawai swasta,
+89,2021-05-02 05:10:33.287720+00:00,2004026511880,2003023955193.0,Kebutuhan sehari-hari,untuk tambahan pembelian barang yang diinginkan,,Banten,Lajang,0.0,Pegawai swasta,Sales / Marketing
+90,2021-03-19 09:17:42.106146+00:00,2004026186944,2003020465632.0,Renovasi Rumah,"renovasi dapur dan kamar mandi, karena ada yang bocor dan mampet saluran pembuangan",1978-04-07,JAWA BARAT,,,Pegawai swasta,Konstruksi / Real Estate
+91,,2004026101757,2003022994929.0,Renovasi Rumah,Memperbaiki atap rumah yang bocor dan memperbaiki kamar mandi,1984-11-09,DKI Jakarta,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+92,2021-01-19 04:22:04.133551+00:00,2004025765982,,Modal usaha,saya ingin membeli tempat tidur untuk pasien melahirkan di tempat praktek pribadi saya d rumah,1991-10-18,,,1.0,Pegawai negeri,Kesehatan
+93,,2004026280113,,Biaya kesehatan,Membantu biay perobatan orang tua yg sedang sakit keras,1995-08-11,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+94,2021-03-22 07:48:27.758543+00:00,2004026206736,2003023096783.0,Biaya kesehatan,"untuk biaya pengobatan rumah sakit, karna bpjs sedanh tidak bisa digunakan",1994-04-19,DKI Jakarta,,0.0,Pegawai swasta,Pabrik / Gudang
+95,2021-10-09 05:18:59.453469+00:00,2004027765275,2003024754854.0,Modal usaha,keperluan untuk memebangun usaha online shope,1992-01-22,,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+96,2021-05-10 02:40:49.087845+00:00,2004026567740,2003022482948.0,Biaya liburan / umroh,akhir bulan saya akan melakukan perjalanan liburan ke labuan bajo,1990-12-08,Bali,Lajang,0.0,,Admin / Finance / HR
+97,2021-04-22 23:36:43.797312+00:00,2004026441345,2003023915406.0,Biaya pendidikan,untuk membayar cicilan semesteran dan membayar segala keperluan,1999-04-16,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+98,2021-06-17 05:12:09.925797+00:00,2004026830902,2003023702725.0,Membayar hutang lainnya,,1998-08-01,Jawa Barat,Lajang,0.0,Pegawai swasta,Tehnik / Computer
+99,2021-11-02 00:32:52.152779+00:00,2004028044779,2003023862352.0,Modal usaha,untuk mengembangkan usaha saya di bidang konstruksi bangunan,1994-10-11,,Lajang,1.0,Pengusaha,Konstruksi / Real Estate
+100,2021-05-25 12:58:04.376099+00:00,2004026661037,2003024043170.0,Kebutuhan sehari-hari,untuk membayar hutang kepada koprasi simoan pinjam,1979-11-11,DKI Jakarta,Cerai,1.0,Pegawai swasta,Sales / Marketing
+101,2021-10-04 01:30:21.599111+00:00,2004027703346,2003023288198.0,Biaya pendidikan,Biaya bayar kuliah anak dan praktek lapangan ke ciwidey,1976-11-08,Jawa Barat,Menikah,2.0,Pegawai swasta,Tehnik / Computer
+102,2021-04-20 09:42:36.879363+00:00,2004026418622,2003023824386.0,Kebutuhan sehari-hari,untuk kebutuhan sehari-hari sebelum uang gaji turun,1999-06-02,Banten,Lajang,0.0,Pegawai swasta,Service
+103,2021-04-20 04:59:25.999917+00:00,2004026415901,2003023901225.0,Modal usaha,,1990-03-05,Sulawesi Tenggara,Lajang,1.0,Pegawai swasta,Pendidikan
+104,2021-05-17 09:05:09.015413+00:00,2004026607585,2003022902253.0,Modal usaha,untuk pembelian alat alat  dan bahan pembuatan kue,1975-09-10,Bali,Menikah,,Pengusaha,Sales / Marketing
+105,2021-10-08 15:59:21.530313+00:00,2004027758837,2003024750590.0,Kebutuhan sehari-hari,untuk kebutuhan sehari hari sesuai kepentingan,1996-10-03,DKI Jakarta,Lajang,0.0,Pegawai swasta,Transportasi
+106,2021-05-11 04:12:31.444139+00:00,2004026576091,2003023993711.0,Kebutuhan sehari-hari,buat modal usaha dan lainnya sama biaya kehidupan sehar hari,1981-05-12,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+107,2021-06-15 16:18:02.175257+00:00,2004026820201,2003024139020.0,Kebutuhan sehari-hari,,1984-05-10,Riau,Menikah,5.0,,Pabrik / Gudang
+108,2021-06-16 07:40:01.327311+00:00,2004026824348,2003024046810.0,Modal usaha,"untuk jualan sembako,pulsa ,token listrik,via online",1979-08-24,Jawa Barat,Menikah,2.0,Pegawai swasta,Kesehatan
+109,2021-05-04 03:29:17.050598+00:00,2004026524585,2003020512384.0,Biaya pendidikan,bayar kuliah dan uang semester. juga uang ujian,1996-12-02,DKI Jakarta,Lajang,,Pegawai swasta,Service
+110,2021-03-29 08:53:15.867666+00:00,2004026259450,2003021661444.0,Renovasi Rumah,mau merenovasi rumah yang habis kebanjiran kemarin.,1986-11-02,Banten,Menikah,0.0,Pegawai swasta,Admin / Finance / HR
+111,2021-09-19 10:08:50.590966+00:00,2004027566315,2003021732373.0,Modal usaha,membuka kedai minuman kekinian dan ikut onlineshop,1984-12-05,Jawa Timur,,2.0,Pegawai swasta,
+112,2021-04-27 08:36:39.127721+00:00,2004026478816,2003023936857.0,Kebutuhan sehari-hari,untuk berjaga-jaga kebutuhan sehari-hari,1995-10-05,Bali,Lajang,0.0,Pegawai swasta,Sales / Marketing
+113,2021-11-01 12:22:33.216655+00:00,2004028040610,,Kebutuhan sehari-hari,,1987-06-09,DKI Jakarta,Menikah,3.0,Pegawai negeri,Perhotelan
+114,2021-08-02 12:55:50.313055+00:00,2004027140779,2003020458790.0,Biaya pendidikan,"biaya anak masuk TK, biaya uang pangkal bangunan sebesar 4 juta rupiah.",1988-02-03,,,1.0,Pegawai swasta,Perbankan
+115,2021-09-05 11:48:51.661516+00:00,2004027417897,2003024521996.0,,keperluan sehari hari untuk belanja keperluan.,1981-08-07,Kalimantan Tengah,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+116,,2004026668595,2003024047545.0,Modal usaha,untuk menambah stock barang-barang dagangan,1988-08-10,DKI Jakarta,Menikah,2.0,,Admin / Finance / HR
+117,,2004025809962,2003023603030.0,,modal usaha online di shopee dg akun lim.sinar,1983-07-10,,Menikah,2.0,Pegawai swasta,Sales / Marketing
+118,2021-06-17 02:25:08.930249+00:00,2004026829785,2003021820228.0,Modal usaha,untuk beli produk konsumer dan di jual lagi ke pelanggan,1972-12-09,DI Yogyakarta,Lajang,3.0,Freelance,Sales / Marketing
+119,2021-01-10 13:28:18.518262+00:00,2004025709955,2003020234027.0,Kebutuhan sehari-hari,untuk keperluan memperbaiki kendaraan mobil,1992-05-22,Sulawesi Selatan,Lajang,0.0,Pegawai swasta,Transportasi
+120,,2004026340507,2003023862441.0,Modal usaha,buat sewa tempat untuk membuka usaha sendiri,,Jawa Timur,Menikah,0.0,Pegawai swasta,Admin / Finance / HR
+121,2021-02-25 08:57:01.063468+00:00,2004026020036,2003022785926.0,Renovasi Rumah,untuk tambahan biaya perbaikan pagar rumah,1980-09-18,Kalimantan Timur,Menikah,1.0,Pegawai swasta,Service
+122,2021-03-09 01:48:34.653401+00:00,2004026101676,,,Untuk Modal Usaha dan kebutuhan sehari - hari,1993-10-30,Jawa Timur,Lajang,0.0,Pegawai negeri,Admin / Finance / HR
+123,2021-03-16 08:55:07.590146+00:00,2004026162153,2003023395216.0,,"untuk modal usaha , nanti akan saya angsur dengan baik dan sperti kemrin saya akan lunasi lebih awal",1992-08-22,JAWA BARAT,Menikah,,Pegawai swasta,Pabrik / Gudang
+124,2021-04-15 10:34:50.294108+00:00,2004026379922,2003020346078.0,Renovasi Rumah,tambahan biaya renovasi rumah untuk penggantian kusen pintu dan jendela,1989-04-30,,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+125,2021-02-10 13:53:39.404923+00:00,2004025912851,2003022678359.0,Modal usaha,untuk menambah modal usaha pakan ikan di rumah,1988-01-26,Jawa Barat,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+126,2021-05-31 12:37:02.335776+00:00,2004026705985,2003022743691.0,Biaya kesehatan,saya mengajukan pinjaman di apk JULO untuk biaya cek kesehatannistri atau biaya periksa di klinik kandungan. terima kasih,1989-08-23,Jawa Barat,Menikah,1.0,,Pabrik / Gudang
+127,2021-05-22 00:57:48.410063+00:00,2004026637165,2003022296533.0,Renovasi Rumah,renovasi dapur dan kontrakan agar bisa lebih nyaman lagi,1985-04-15,DKI Jakarta,Menikah,3.0,,Konstruksi / Real Estate
+128,2021-05-29 08:02:51.871906+00:00,2004026688575,2003023924437.0,Modal usaha,untuk mengembangkan usaha dengan modal yg lebih banyak ..lebih banyak produk,1979-03-11,DKI Jakarta,Cerai,2.0,Pengusaha,Sales / Marketing
+129,,2004025990810,2003022148778.0,Modal usaha,untuk pembiayaan modal usaha dan perlengkapan usaha lain nya,1996-08-26,Banten,Lajang,1.0,Pegawai swasta,Sales / Marketing
+130,,2004026432024,2003023910062.0,Biaya liburan / umroh,Buat Liburan Ke Pangandaran Bareng Keluarga,1989-07-07,Jawa Barat,Menikah,2.0,Pegawai swasta,Hukum / Security / Politik
+131,2021-03-15 01:02:11.105727+00:00,2004026147327,,Modal usaha,buat modal usaha istri buka warung sembako,1985-05-02,Banten,Menikah,3.0,Pegawai swasta,
+132,2021-09-19 11:33:49.144809+00:00,2004027566954,2003024622556.0,Kebutuhan sehari-hari,untuk membeli kebutuhan sehari hari dan membayar kontrakan rumah,1993-12-22,DKI Jakarta,Lajang,0.0,Pegawai swasta,
+133,2021-07-07 07:27:53.625892+00:00,2004026968180,2003023958769.0,,untuk membeli peralatan design yg saya butuhkan untuk mempermudah saya dalam pekerjaan,1991-01-21,Nanggroe Aceh Darussalam (nad),Lajang,,,Design / Seni
+134,2021-06-22 12:29:45.324127+00:00,2004026868905,2003024170451.0,Modal usaha,untuk mengembangkan ternak burung murai batu,1995-03-29,Jawa Tengah,Menikah,,Pegawai swasta,Pabrik / Gudang
+135,2021-06-26 04:25:53.842418+00:00,2004026890512,2003024184486.0,Kebutuhan sehari-hari,"untuk kebutuhan sehari hari , untuk memberi orang tua",1994-07-07,Jawa Timur,Lajang,0.0,Pegawai swasta,Sales / Marketing
+136,2021-06-24 23:24:00.041965+00:00,2004026882801,2003020917266.0,Biaya kesehatan,berobat jalan ke rumasakit karna mmpunyai penyakit lambung,1996-11-14,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+137,2021-07-29 03:31:00.798420+00:00,2004027110090,2003023332769.0,Kebutuhan sehari-hari,untuk memenuhi kebutuhan sehari hari dan biaya pendidikani,1999-07-25,Jawa Barat,Lajang,1.0,Pegawai swasta,Sales / Marketing
+138,2021-06-25 19:49:43.502718+00:00,2004026888864,2003023343883.0,Modal usaha,untuk menambah modal karena banyak nya permintaan produksi,1987-07-10,Jawa Barat,Menikah,3.0,Freelance,Konstruksi / Real Estate
+139,2021-02-28 05:03:25.832994+00:00,2004026041577,2003023715131.0,Modal usaha,buat tambahan modal usaha sama untuk keperluan alat usaha,1990-01-24,Kalimantan Utara,Menikah,,Pengusaha,Sales / Marketing
+140,2021-06-26 09:35:49.558218+00:00,2004026892382,2003023547712.0,Kebutuhan sehari-hari,untuk perbaiki kendaraan bermotor perlu turun mesin,1979-11-21,Jawa Barat,Lajang,0.0,Pegawai swasta,Kesehatan
+141,2021-04-22 05:09:45.358535+00:00,2004026434317,2003023911380.0,Modal usaha,ingin membuka usaha sabun2 dirumah dan warung,1994-10-29,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+142,2021-05-22 01:25:42.361634+00:00,2004026637283,2003023942054.0,Biaya pendidikan,untuk biaya daftar ulang sekolah dan biaya bulanan,1985-12-21,Jawa Barat,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+143,2021-04-29 13:15:01.753233+00:00,2004026494626,2003023945863.0,Modal usaha,untuk tambahan borongan proyek bangunan rumah pribadi dua lantai agar dapat secepatnya proyek itu terselesaikan,1989-07-12,Jawa Barat,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+144,2021-05-15 17:13:34.727932+00:00,2004026597936,2003022469276.0,Modal usaha,modal usaha untuk jualan dan untuk kebutuhan sehari-hari,1999-06-02,Jawa Tengah,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+145,2021-11-25 11:00:12.553784+00:00,2004028342683,,Renovasi Rumah,Nambah ruangan kamar utk anak yg sudah beranjak remaja,,Sumatera Utara,Menikah,3.0,Pegawai swasta,Sales / Marketing
+146,2021-06-17 05:50:02.112379+00:00,2004026831226,2003023354263.0,Membeli kendaraan,kebutuhan membeli kendaraan bermotor merk,1990-09-22,Jawa Barat,,1.0,Pegawai swasta,Pendidikan
+147,2021-03-11 01:59:35.118411+00:00,2004026117686,,Renovasi Rumah,"Saya pinjam di Julo, untuk membangun rumah saya sendiri",1996-08-29,Jawa Timur,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+148,2021-06-30 00:51:23.421382+00:00,2004026915888,2003024201428.0,Renovasi Rumah,Untuk membeli bahan renovasi kamar mandi.,1993-05-23,Di Yogyakarta,,1.0,,Admin / Finance / HR
+149,2021-07-11 11:02:48.721440+00:00,2004026994834,2003024251111.0,Biaya pendidikan,bayar anak masuk pesantren di jojjakarta tingakat SMP termasuk biaya pendaftaran dan pondok,1980-09-12,Dki Jakarta,Menikah,,,Admin / Finance / HR
+150,2021-05-15 10:27:43.765638+00:00,2004026596373,2003023939759.0,Modal usaha,untuk penambahan modal usaha supplier pertambangan,1970-05-05,Banten,Menikah,2.0,Pegawai swasta,Sales / Marketing
+151,2021-05-24 03:18:25.169202+00:00,2004026651374,2003021058943.0,Kebutuhan sehari-hari,butuh biaya untuk pindahan rumah. untk beli perlengkapan rumah tangga baru.,1986-12-22,Sumatera Utara,Menikah,2.0,Pegawai swasta,Konstruksi / Real Estate
+152,2021-02-28 10:00:47.142585+00:00,2004026043159,,Biaya pendidikan,kuliah anak pertama di universitas atma jaya jogja,1980-06-23,Bali,Menikah,4.0,Pengusaha,Konstruksi / Real Estate
+153,2021-04-14 00:25:17.650590+00:00,2004026366719,2003023875906.0,Renovasi Rumah,renovasi rumah perbaikan atap rumah bocor,1982-05-04,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+154,2021-07-23 05:05:34.350410+00:00,2004027072364,2003020660872.0,Modal usaha,modal usaha pakaian & berjualan di sosmed,1994-08-24,Jawa Barat,Menikah,,Pegawai swasta,Sales / Marketing
+155,2021-09-07 09:32:10.539396+00:00,2004027435721,2003024534281.0,Biaya pendidikan,bayar iuran bulanan pendidikan anak di SMP swasta,1982-07-27,,Menikah,,Pegawai swasta,Admin / Finance / HR
+156,2021-02-28 10:23:04.897017+00:00,2004026043267,2003023715985.0,Kebutuhan sehari-hari,untuk kebutuhan sehari hari dan kebutuhan mendadak,1992-01-29,Dki Jakarta,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+157,2021-02-06 05:14:29.867865+00:00,2004025877603,2003022558738.0,Biaya kesehatan,untuk perawatan keluarga yang sedang dirawat di RS,1993-05-03,Banten,Menikah,2.0,,
+158,2021-04-10 02:57:54.232596+00:00,2004026333846,2003022933741.0,Renovasi Rumah,untuk bikin pager rumah dan melur jalanan sampng rumah.,1981-06-04,Jawa Barat,Menikah,2.0,Pegawai swasta,
+159,2021-04-12 05:06:49.579099+00:00,2004026351553,2003023503858.0,Biaya kesehatan,"untuk biaya berobat ke dokter, menebus obat. dan lain sebagainya",1996-07-14,Jawa Barat,Lajang,,Pegawai swasta,Admin / Finance / HR
+160,2021-07-05 02:22:34.885725+00:00,2004026950237,2003024223585.0,Membeli kendaraan,membeli motor untuk bekerja dan kebutuhan sehari hari dirumah dan pekerjaan,2000-01-28,Kalimantan Timur,Menikah,2.0,Pegawai swasta,Hukum / Security / Politik
+161,2021-07-05 03:22:30.452097+00:00,2004026950656,2003020749296.0,Biaya pendidikan,,1984-09-08,Banten,Menikah,0.0,Pegawai swasta,Pendidikan
+162,2021-06-21 08:06:20.301867+00:00,2004026860219,2003024164831.0,Modal usaha,Untuk menutupi sisa kekurangan memulai usaha,1996-05-10,,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+163,2021-10-11 08:20:35.841395+00:00,2004027790130,2003024771481.0,Biaya pendidikan,biaya anak sekolah dan terapi tumbuh kembang anak,,Jawa Barat,Menikah,2.0,,Tehnik / Computer
+164,2021-10-13 09:04:44.959193+00:00,2004027808199,2003024783118.0,,kebutuhan sehari hari untuk ongkos berangkat kerja,1992-07-22,DKI Jakarta,,0.0,Pegawai swasta,
+165,2021-10-13 12:17:11.929636+00:00,2004027809834,2003023476441.0,,untuk keperluan rumah tangga dan pendidikan,1995-01-11,Jawa Timur,Lajang,,Pegawai swasta,Pabrik / Gudang
+166,2021-11-10 09:14:09.054903+00:00,2004028159609,2003025023899.0,Transfer ke Keluarga/Teman,ingin membantu masalah keuangan keluarga dan teman untuk kebutuhan kehidupan berumah tangga,1994-09-17,,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+167,2021-05-08 12:46:15.317709+00:00,2004026557051,2003023981488.0,Kebutuhan sehari-hari,"pegangan buat lebaran,  kali ada hp mau dijual murah, lumayan buat jual beli hp",1991-08-10,Jawa Tengah,Menikah,1.0,Pegawai swasta,Service
+168,2021-10-02 04:28:21.130235+00:00,2004027683730,2003024703638.0,,,1990-08-28,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+169,2021-08-27 08:18:40.607083+00:00,2004027337554,,Biaya pendidikan,biaya pendidikan kuliah karna biaya kurang,1999-06-27,,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+170,2021-06-03 23:36:03.276193+00:00,2004026733827,2003024087468.0,Membeli elektronik,ingin membeli Perabotan rumah televisi .,1997-04-04,,Menikah,1.0,,Pabrik / Gudang
+171,2021-08-07 08:24:42.847073+00:00,2004027177424,,Renovasi Rumah,untuk renovasi atap rumah yang rubuh yang mana harus beli bahan baku di matrial supaya tidak bocor lagi di rumah,1990-11-27,Jawa Barat,Lajang,0.0,Pegawai swasta,
+172,2021-06-07 13:11:55.772664+00:00,2004026760736,2003024102536.0,Biaya pendidikan,biaya pendidikan adik yang masih sekolah dasar pertama untuk masuk sma,1993-11-10,Banten,Lajang,0.0,,Kesehatan
+173,2021-01-30 11:26:03.599971+00:00,2004025835974,,Renovasi Rumah,pembetulan atap rumah dan dapur dan halaman depan masih tanah,1997-06-25,Jawa Tengah,Lajang,0.0,Pegawai swasta,Service
+174,,2004026579249,2003023995539.0,Modal usaha,"buat modal usaha,belajar jd pengusaha,sambil kerja sambil buka usaha.",1986-06-16,Sumatera Utara,Lajang,0.0,Pegawai swasta,Transportasi
+175,2021-08-10 20:09:19.403160+00:00,2004027199491,2003022673124.0,Renovasi Rumah,"untuk renovasi rumah orang tua di kampung,mohon di acc ..terima kasih",1991-06-24,Banten,Lajang,2.0,Pegawai swasta,Sales / Marketing
+176,2021-04-23 00:37:57.810797+00:00,2004026441562,2003023915519.0,Renovasi Rumah,untuk renopasi rumah .karna sebentar lagi lebaran idulpitri,1995-10-01,Banten,Menikah,0.0,Pegawai swasta,Hukum / Security / Politik
+177,2021-08-10 22:20:08.983266+00:00,2004027199630,,Membeli kendaraan,kekurangan dana untuk membeli kendaraan makanya sy mau pinjam,1984-12-31,Jawa Barat,Menikah,3.0,,Pabrik / Gudang
+178,2021-08-24 18:50:39.737198+00:00,2004027307166,2003024450533.0,Kebutuhan sehari-hari,kebutuhan sehari-hari dan buat modal usaha coy,,Jawa Barat,Lajang,1.0,Pegawai swasta,
+179,2021-02-28 13:33:28.368181+00:00,2004026044091,2003020933025.0,Renovasi Rumah,,1997-05-23,Banten,Lajang,0.0,Pegawai swasta,Sales / Marketing
+180,2021-01-06 02:03:50.194357+00:00,2004025686373,2003023465081.0,Membayar hutang lainnya,untuk membayar hutang dan kebutuhan tambahan sehari hari,1986-09-17,Jawa Barat,Menikah,2.0,Pegawai swasta,Service
+181,2021-04-29 00:27:02.041880+00:00,2004026489663,2003022826529.0,Membeli elektronik,"tujuan saya meminjam untuk beli hp soal nya hp saya yang dulu telah hilang waktu d jalan menuju tempat kerja, semoga pihak dari Julo mau untuk meminjam kan dana nya untuk saya beli hp baru, karena saat ini saya belum punya hp, uang yang saya punya ini tidak cukup untuk beli hp baru, di karena kan uang separo dari gajih saya beri kan kepada orang tua saya untuk berobat karena sedang sakit, karena dari itu lah saya mengajukan pinjaman kepada pihak Julo, kalau pihak Julo me ACC pinjaman saya, saya berjanji pasti bayar tepat pada waktu, saya harap mohon bantuan nya, sekian dan terimakasih.",,Kalimantan Selatan,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+182,2021-06-12 11:59:50.348969+00:00,2004026797628,2003022737298.0,Membeli kendaraan,untuk membeli kendaraan pribadi karena saya tidak punya kendaraan dan berjalan kaki kemana mana,1995-08-23,DKI Jakarta,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+183,2021-01-20 02:47:53.043684+00:00,2004025771903,2003022877873.0,,untuk biaya operasional dilapangan selama ada pengiriman barang dari cargo,1980-08-21,Jawa Barat,Menikah,4.0,Pengusaha,Service
+184,,2004026583236,2003023155702.0,,"Untuk membelikan dagangan seperti rokok, indomie & minuman seperti kopi, good day, nutrisari dll",1997-01-31,DKI Jakarta,Lajang,2.0,Pegawai swasta,Admin / Finance / HR
+185,2021-06-13 09:17:20.555746+00:00,2004026803056,2003020932732.0,Modal usaha,untuk keperluan buka usaha di tangerang fried chicken,1991-12-23,Banten,Menikah,2.0,,Sales / Marketing
+186,2021-01-10 06:14:08.172054+00:00,2004025707950,2003023554217.0,Modal usaha,untuk membuka usaha kuliner kecil2an di rumah,1991-11-24,,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+187,,2004028262525,2003024566473.0,Modal usaha,"untuk tambahan modal usaha,disituasi pandemi,belanja produk baru dan laimlain",1982-10-01,Jawa Timur,Menikah,2.0,Pengusaha,Sales / Marketing
+188,2021-08-15 09:08:35.082095+00:00,2004027229655,2003024100240.0,Modal usaha,menutup kekurangan uang jalan sopir armada dumptruck saya,1974-06-23,Sumatera Barat,,,,Transportasi
+189,2021-02-27 01:39:19.232402+00:00,2004026034029,2003023711393.0,Renovasi Rumah,Tujuan Pinjaman adalah untuk renovasi rumah.,1997-11-22,Jawa Barat,Lajang,0.0,Pegawai swasta,
+190,2021-07-15 00:39:49.488695+00:00,2004027016440,,Modal usaha,,1993-09-29,Jawa Barat,Menikah,2.0,Pegawai swasta,Hukum / Security / Politik
+191,,2004026214646,2003023431624.0,,,1995-04-23,DKI Jakarta,Lajang,,Pegawai swasta,Konstruksi / Real Estate
+192,2021-03-01 23:05:25.178047+00:00,2004026053597,2003023720907.0,Modal usaha,,,Sulawesi Selatan,Menikah,3.0,Pegawai swasta,Admin / Finance / HR
+193,2021-01-07 01:26:47.870375+00:00,2004025691592,2003020454657.0,Biaya pendidikan,saya sedang meneruskan pendidikan untuk kenaikan jabatan saya (alih status ke bagian back office),1997-05-06,DKI Jakarta,Lajang,0.0,,Perbankan
+194,2021-03-10 08:54:56.538202+00:00,2004026113312,,Modal usaha,tambahan biaya pembelian alat potong dan mesin kompresor,1986-07-13,Jawa Barat,Menikah,2.0,Pengusaha,Konstruksi / Real Estate
+195,2021-01-24 06:29:47.163298+00:00,2004025798520,,Modal usaha,untuk modal usahs ayam goreng tambah tambah penghasilan sabtu minggu,1999-09-08,Jawa Barat,Lajang,,Pegawai swasta,Admin / Finance / HR
+196,,2004026195451,2003023791772.0,Biaya kesehatan,persiapan biaya rumah sakit ayah periksa ortopedi dan jantung,1976-03-05,DKI Jakarta,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+197,,2004027008559,2003023705048.0,Modal usaha,modal bangun usaha mandiri galon isi ulang di perumahan baru,1983-01-18,Jawa Barat,Menikah,3.0,Pegawai swasta,Admin / Finance / HR
+198,2021-02-27 09:11:56.788672+00:00,2004026037383,2003023713114.0,Modal usaha,"tujuan pinjaman sebagai konsultan pendidikan dan koordinator terapis anak2 berkebutuhan khusus yg ingin mengembangkan diri dan menambah murid2 sy perlu membeli peralatan alat2simulasi terapis, perlengkapan seminar dan training untuk parenting,  buku2 pelajaran, dan lain2. karena anak2 berkebutuhan khusus perlu permainan edukasi untuk melatih otak, motorik kasar dan halus agar bisamengembangkan kemandirian dan kebutuhan cognitive skill yg harus ditingkatkan, dimana pengembangan skill dan kemandirian anak2 berkebutuhan khusus membantu masa depan mereka bahwa mereka bisa sama tumbuh dan berkembang seperti anak2 normal lainnya.",1970-05-26,Jawa Barat,Cerai,1.0,Pegawai swasta,
+199,2021-02-12 10:53:08.371583+00:00,2004025925344,,Biaya pendidikan,sebagai dana simpanan pendidikan anak ditengah pandemi,1979-06-25,DKI Jakarta,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+200,2021-03-15 01:17:13.428143+00:00,2004026147446,2003023097924.0,Biaya pendidikan,untuk membayar biaya kuliah pendidikan s2 semester 4,1991-10-20,Jawa Barat,Menikah,1.0,Pegawai negeri,Pabrik / Gudang
+201,,2004026510879,2003023954654.0,Membayar hutang lainnya,biaya kebutuhan sehari hari dan biaya tagihan bulanan,1990-04-15,,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+202,2021-03-10 04:16:01.488885+00:00,2004026110819,2003023748346.0,,pinjaman diperlukan untuk kebutuhan liburan keluarga,1985-01-12,Dki Jakarta,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+203,2021-05-28 05:30:19.251578+00:00,2004026679512,2003023072689.0,Membeli elektronik,Untuk buka usaha percetakan/foto copy di desa,1995-04-24,Sulawesi Utara,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+204,2021-08-28 12:33:15.549634+00:00,2004027349574,2003024186162.0,Membayar hutang lainnya,ingin menutupi hutang dan ingin jdi satu jalur,1992-09-12,Jawa Barat,Cerai,1.0,,Perbankan
+205,2021-04-23 05:11:08.275477+00:00,2004026443836,2003023916765.0,Kebutuhan sehari-hari,kebutuhan sehari-haribsampai lebaran.....,1987-02-23,DKI Jakarta,Lajang,0.0,Pegawai swasta,Perhotelan
+206,2021-06-10 11:27:31.489450+00:00,2004026782815,2003022722309.0,Renovasi Rumah,tambahan biaya kekurangan dana perbaikan rumah,1974-02-01,Jawa Barat,Menikah,4.0,,Pendidikan
+207,2021-01-15 02:26:42.613950+00:00,2004025738274,2003021997440.0,Modal usaha,,1988-12-17,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+208,2021-08-30 05:11:06.716046+00:00,2004027363272,2003024487443.0,Membayar hutang lainnya,Untuk melunasi pinjaman lainnya dan juga memenuhi kebutuhan lainnya,1982-04-27,Sumatera Barat,Menikah,2.0,Pegawai swasta,Perbankan
+209,2021-06-23 05:53:34.251105+00:00,2004026872869,2003024173036.0,Modal usaha,ingin tambah modal usaha yang sedang saya bangun,,Jawa Barat,Menikah,1.0,Pegawai swasta,Entertainment / Event
+210,2021-04-29 12:51:52.631104+00:00,2004026494513,2003020678831.0,,biaya untuk membayar uang kegiatan sekolah anak,1980-08-26,Jawa Timur,Menikah,1.0,Pegawai swasta,Pendidikan
+211,2021-01-22 22:09:09.915104+00:00,2004025790991,2003022045242.0,Membayar hutang lainnya,Saya memiliki pinjaman di Aplikasi Pinjaman Online dan mau melunasi dan menyatukan pinjaman di Julo,,Maluku,,4.0,Pegawai negeri,Admin / Finance / HR
+212,2021-01-15 04:31:12.531567+00:00,2004025739029,2003023568219.0,Modal usaha,"untuk buka usaha sampingan, rencanya mau bikin rak teh tarik, buat jualan teh tarik",1984-01-01,DKI Jakarta,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+213,2021-04-22 11:56:56.024648+00:00,2004026437976,2003022838958.0,Biaya kesehatan,untuk membantu biaya berobat nenek yang lagi sakit parah,1997-11-29,,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+214,2021-02-06 09:26:17.033868+00:00,2004025879434,2003022304068.0,Membeli elektronik,membeli ponsel dan kebutuhan elektronik lainnya,1985-03-08,DKI Jakarta,Menikah,2.0,Pegawai swasta,Sales / Marketing
+215,2021-09-17 15:29:44.575740+00:00,2004027550711,2003021133522.0,Renovasi Rumah,untuk biaya pembuatan kanopi garasi mobil,1987-07-20,Jawa Barat,Menikah,2.0,Pegawai swasta,Sales / Marketing
+216,2021-07-08 02:17:36.809982+00:00,2004026972682,2003024237702.0,,,1985-01-01,Jawa Barat,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+217,2021-03-03 23:48:25.380180+00:00,2004026068635,2003022759410.0,Modal usaha,,1985-07-16,Banten,Lajang,,Pengusaha,Service
+218,2021-06-03 01:22:15.967610+00:00,2004026725332,2003021149662.0,Modal usaha,Untuk modal usaha jual beli limbah PCB dan budidaya ikan lele,1991-03-01,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+219,2021-09-02 07:20:46.931314+00:00,2004027390752,2003024504264.0,Biaya pendidikan,untuk biaya kuliah semester akhir dan harus dibayarkan bulan ini,1997-10-06,DKI Jakarta,Lajang,1.0,Pegawai swasta,Perbankan
+220,2021-09-22 07:59:27.890606+00:00,2004027589260,2003024637795.0,Modal usaha,modal usaha karena kurangnya biaya untuk membeli perlengkapan usaha,1988-02-13,Jawa Tengah,Menikah,1.0,Pegawai swasta,Entertainment / Event
+221,2021-09-13 06:00:00.948392+00:00,2004027500265,2003023644216.0,Biaya pendidikan,pendaftaran sekolah anak ke tingkat lanjut.,1978-11-01,Jawa Barat,Menikah,2.0,Pegawai swasta,Service
+222,2021-03-24 02:49:21.074123+00:00,2004026219783,2003021816441.0,Biaya kesehatan,biaya kesehatan ibu mertua operasi batu empedu,1981-10-14,,Menikah,3.0,Pegawai swasta,Perbankan
+223,2021-05-16 07:25:01.604999+00:00,2004026600817,2003021981806.0,Renovasi Rumah,untuk renovasi rumah . untuk membeli bahan bangunan,1990-07-20,Jawa Barat,Cerai,,Pegawai swasta,Admin / Finance / HR
+224,2021-04-17 07:02:39.248312+00:00,2004026393614,2003023889452.0,Kebutuhan sehari-hari,,1995-06-03,Banten,Lajang,,Pegawai swasta,Hukum / Security / Politik
+225,2021-08-21 04:19:45.046435+00:00,2004027282561,2003024434337.0,Modal usaha,"tambahan modal usaha,untuk membeli barang dan berjualan",1995-11-24,Jawa Timur,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+226,2021-06-02 01:25:10.306833+00:00,2004026716205,2003023738432.0,Modal usaha,untuk membeli produk seperfat keperluan bengkel . seperti sokbreker.terrot.buljoin.oli dll,,Banten,Menikah,2.0,Pegawai swasta,Service
+227,2021-04-12 20:24:07.960024+00:00,2004026357385,2003023871190.0,,saya sedang renovasi rumah. kurang untuk membeli bahan bangunan,1990-11-23,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+228,2021-06-02 01:24:41.902261+00:00,2004026716200,2003024076831.0,,"Kebutuhan sehari-hari, untuk modal cadangan jika kekurangan dana",1997-10-31,Banten,Lajang,0.0,Pegawai swasta,Tehnik / Computer
+229,2021-09-21 16:52:01.024289+00:00,2004027584522,2003024588958.0,Biaya pendidikan,"untuk daftar ulang sekolah anak, seragam dan buku pelajaran",1983-01-10,Jawa Barat,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+230,2021-03-12 02:33:39.186213+00:00,2004026126301,2003023756261.0,Modal usaha,Untuk modal usaha menjual Kue kering dan kue Basah untuk dititipkan pada toko kue,,Lampung,Menikah,1.0,Pegawai negeri,Admin / Finance / HR
+231,2021-11-02 03:59:45.176083+00:00,2004028047112,2003024948316.0,Biaya pendidikan,karna sangat amanah menjaga data identitas,1992-04-02,Banten,Menikah,0.0,Pegawai swasta,Pabrik / Gudang
+232,2021-10-14 06:23:42.631552+00:00,2004027816567,,Kebutuhan sehari-hari,,1996-02-21,Dki Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+233,2021-09-15 09:02:49.726379+00:00,2004027525199,2003024593918.0,Modal usaha,ingin memulai usaha sendiri seperti buka warung atau yg lain sebagainya,1999-07-29,Banten,Lajang,0.0,,Sales / Marketing
+234,2021-04-12 00:12:03.978252+00:00,2004026348762,2003023033127.0,Modal usaha,untuk biaya modal usaha yang butuh modal,1990-09-27,,Menikah,,Pegawai swasta,Admin / Finance / HR
+235,2021-01-23 08:19:39.064228+00:00,2004025793849,2003023595027.0,Membeli elektronik,Membelikan HP baru untuk istri karena saat ini HP istri rusak,1980-01-04,Sumatera Utara,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+236,2021-10-04 07:33:46.321947+00:00,2004027711487,2003024338076.0,Biaya pendidikan,,1996-10-14,Jawa Tengah,Lajang,0.0,Pengusaha,Tehnik / Computer
+237,2021-05-25 23:07:11.673572+00:00,2004026662767,2003024032688.0,Kebutuhan sehari-hari,"buat kebutuhan sehari hari ,seperti ongkos,dan makan sampai gajian",1991-09-14,DKI Jakarta,Menikah,2.0,,Perbankan
+238,2021-09-27 22:03:47.770675+00:00,2004027630837,,Renovasi Rumah,Atap dapur sudah hampir jebol butuh perbaikan,1979-10-09,Jawa Timur,Menikah,,,Pabrik / Gudang
+239,2021-02-08 02:31:10.798884+00:00,2004025893232,2003023640737.0,Biaya pendidikan,Pinjaman untuk biaya sekolah anak bulanan,1984-06-21,Dki Jakarta,Cerai,2.0,,Perbankan
+240,2021-03-16 02:47:38.894872+00:00,2004026158083,2003022027368.0,Modal usaha,modal usaha jualan masker medis merk sensi dan lain- lain,1985-07-17,Jawa Barat,Menikah,2.0,Pegawai negeri,Admin / Finance / HR
+241,2021-03-26 04:53:11.016043+00:00,2004026237478,2003023813874.0,Kebutuhan sehari-hari,Untuk membeli kebutuhan sehari-hari dan servis motor,1984-11-14,Jawa Tengah,Menikah,3.0,Pegawai swasta,
+242,2021-02-16 09:40:15.254067+00:00,2004025950624,2003023667721.0,Membeli elektronik,untuk membeli barang yang bisa dicicil atau tunai jika dana sendiri belum cukup saat butuh instan,1970-12-26,DKI Jakarta,Menikah,2.0,Pegawai swasta,
+243,,2004028264499,2003025092572.0,Biaya kesehatan,"kurang biaya untuk membayar rumah sakit,dan keperluan lain lain",,Banten,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+244,2021-08-02 09:11:39.134825+00:00,2004027139331,2003024341113.0,Modal usaha,Saya ingin menambah modal untuk berjualan Makanan membeli peralatan untuk memasak,1992-03-09,Banten,Menikah,0.0,Pegawai swasta,Service
+245,2021-02-04 02:56:30.436586+00:00,2004025863496,2003023153584.0,Kebutuhan sehari-hari,untuk biaya kebutuhan sehari hari saya dan keluarga,1975-12-25,Banten,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+246,2021-08-16 12:35:15.333003+00:00,2004027238696,2003021301879.0,Kebutuhan sehari-hari,untuk kebutuhan kesehatan dan biaya sehari hari,1987-06-01,,Menikah,0.0,Pegawai swasta,Sales / Marketing
+247,2021-06-01 03:39:23.777069+00:00,2004026709710,2003020895042.0,Biaya kesehatan,untuk biaya persiapan kesehatan terutama di tengah pandemic ini,1989-07-20,Kalimantan Timur,Menikah,2.0,Pengusaha,Kesehatan
+248,2020-12-20 13:05:27.425654+00:00,2004025601008,2003021458089.0,Renovasi Rumah,Biaya pasang teralis rumah dan kanopi depan rumah,1988-04-20,Banten,Menikah,3.0,,Tehnik / Computer
+249,2021-08-08 07:33:39.298237+00:00,2004027182877,2003024368162.0,Biaya kesehatan,untuk tambahan biaya kesehatan mertua yang sedang sakit,1977-04-02,DKI Jakarta,Menikah,2.0,Pegawai negeri,Tehnik / Computer
+250,2021-11-03 05:42:33.577284+00:00,2004028060929,2003020290264.0,Kebutuhan sehari-hari,untuk kebutuhan sehari hari rumah tangga,1989-10-15,DKI Jakarta,Menikah,3.0,Pegawai swasta,
+251,2021-08-28 06:38:57.979701+00:00,2004027346590,2003023047395.0,Modal usaha,Pembayaran gaji karyawan dikarenakan belum terselesaikannya kontrak kerja,1991-09-06,DKI Jakarta,Lajang,0.0,Freelance,Tehnik / Computer
+252,2021-09-06 07:06:39.845056+00:00,2004027425422,2003024527186.0,Modal usaha,menambah modal usaha berjualan tas dan kosmetik,1993-10-09,Kalimantan Selatan,Menikah,1.0,Ibu rumah tangga,
+253,2021-01-24 15:05:34.777007+00:00,2004025800517,2003023598435.0,Modal usaha,,,Bali,Menikah,4.0,Pegawai swasta,Kesehatan
+254,,2004027223683,2003022586198.0,Modal usaha,,2000-08-13,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+255,2021-03-06 10:05:59.841948+00:00,2004026086034,2003022115942.0,Renovasi Rumah,renovasi kepemilikan rumah sendiri kpr BTN,1989-01-14,DKI Jakarta,Menikah,1.0,Pegawai swasta,Service
+256,2021-05-06 03:43:53.121453+00:00,2004026540880,2003020971990.0,Renovasi Rumah,,1986-08-22,Jawa Barat,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+257,2021-02-27 03:02:51.011359+00:00,2004026034694,2003023711722.0,Modal usaha,untuk modal usaha berdagang ayam chicken. butuh modal untuk neli gerobak nya,1998-01-01,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+258,2021-02-26 08:21:16.243848+00:00,2004026028517,2003020339700.0,Membeli elektronik,untuk mebeli handphond karena sudah rusak,1982-06-25,DKI JAKARTA,Lajang,0.0,Pegawai swasta,Pendidikan
+259,2021-04-19 07:10:19.190237+00:00,2004026407338,2003023896197.0,Kebutuhan sehari-hari,untuk biaya sehari hari dan bantu saudara,1987-02-28,Banten,Menikah,3.0,Pegawai swasta,Service
+260,2021-05-28 06:32:40.081538+00:00,2004026680041,2003022670017.0,Biaya pendidikan,memasukan anak ke sekolah ajaran baru tahun 2021,1991-03-01,DKI Jakarta,Menikah,1.0,Pegawai swasta,Kesehatan
+261,2021-06-08 01:54:59.632958+00:00,2004026763430,2003024104116.0,Modal usaha,untuk tambahan modal usaha kebun pisang dan jeruk,1992-11-27,Jawa Timur,Lajang,0.0,Pegawai swasta,Entertainment / Event
+262,2020-12-30 14:37:27.381869+00:00,2004025651661,2003023531032.0,Biaya pendidikan,pembayaran biaya masuk sekolah untuk SMP,1980-12-08,Dki Jakarta,,4.0,Pegawai swasta,Sales / Marketing
+263,2021-09-03 08:27:59.055461+00:00,2004027399185,,Modal usaha,"pingin buat usaha angkringan,di karnakan sejak PPKM ini banyak dan ramai buat nongkrong anak muda yg ingin buang penat,seblm nya saya sudah joint sama orng,dan buka di cibubur,itu lumayan bngt,sekng waktunya saya buka sendiri di daerah cileungsi,dmn saya melihat tempat yang bagus,dengan nuansa alam yg bagus,",1989-11-24,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+264,,2004027953756,2003024881670.0,,dana akan dipakai untuk biaya renovasi rumah yaitu dapur,1989-09-21,Sumatera Utara,Menikah,,Pegawai swasta,Perbankan
+265,2021-03-17 06:28:07.799981+00:00,2004026169311,2003022316417.0,Modal usaha,,1992-03-31,DKI Jakarta,Lajang,0.0,Pegawai swasta,Design / Seni
+266,,2004026131678,2003023759046.0,Membeli elektronik,,1987-03-24,Dki Jakarta,,2.0,,Service
+267,,2004026745192,2003024094073.0,Modal usaha,untuk membuka usaha toko sembako..........,1989-02-08,Banten,Menikah,2.0,Pegawai swasta,Transportasi
+268,,2004026314580,2003023849546.0,Modal usaha,modal usaha yg bersifat sangat memerlukan banyak modal,1999-10-02,Banten,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+269,2021-01-03 03:27:31.319829+00:00,2004025668859,2003021921885.0,Biaya kesehatan,persiapan persalinan untuk tes rapid atau sweb suami istri.,1990-07-20,DKI Jakarta,Menikah,,Pegawai swasta,Admin / Finance / HR
+270,2021-06-09 17:09:41.876249+00:00,2004026777264,,Biaya kesehatan,untuk biaya kesehatan dan perjalanan rohani,1996-06-06,,Menikah,1.0,Pegawai swasta,Hukum / Security / Politik
+271,2021-10-22 12:27:31.322068+00:00,2004027912646,2003024854042.0,Renovasi Rumah,renovasi rumah agar lebih baik lagi dan rumah dapat bertahan lama,1999-01-14,,,0.0,,Admin / Finance / HR
+272,,2004025753336,2003020886460.0,Membeli elektronik,tujuan saya untuk Membeli alat elektronik seperti laptop,1997-01-07,DKI Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+273,2021-05-28 00:52:45.192893+00:00,2004026677465,2003024052721.0,Membeli elektronik,"Untuk memenuhi kebutuhan rumah, pembelian furniture dan elektronik",1999-04-12,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+274,,2004027057596,2003024289535.0,Modal usaha,,1978-05-05,Jawa Barat,Menikah,1.0,Pegawai swasta,Service
+275,2021-05-20 11:48:55.227758+00:00,2004026629306,2003024023808.0,,pegangan harian makan dan bensin berangkat kerja,1999-10-22,Sumatera Selatan,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+276,2021-05-06 23:04:32.708824+00:00,2004026545972,2003023974676.0,,mau pinjam uang untuk modal jualan pulsa hp dan token listrik,1988-12-02,Nanggroe Aceh Darussalam (NAD),,2.0,Pegawai swasta,Sales / Marketing
+277,2021-03-11 11:24:57.245007+00:00,2004026122271,2003020998506.0,Renovasi Rumah,merenovasi rumah yang membutuhkan dana besar sekaligus,1987-02-17,Jawa Barat,Menikah,1.0,Pegawai swasta,Konstruksi / Real Estate
+278,2021-04-12 07:29:19.548214+00:00,2004026353074,2003023435555.0,Renovasi Rumah,untuk merenovasi rumah agar lebih layak ditempati,1994-09-26,,Lajang,1.0,Pegawai swasta,Pabrik / Gudang
+279,2021-05-17 01:59:45.790767+00:00,2004026604307,2003020231588.0,Renovasi Rumah,renovasi rumah bagian atas mulai bocor lantai mulai pecah karena hujan dan banjir,1983-01-25,DKI Jakarta,Menikah,0.0,Pegawai swasta,Admin / Finance / HR
+280,2021-04-16 06:20:32.614328+00:00,2004026385576,2003023885391.0,Biaya pendidikan,"untuk biyaya tambahan pendidikan anak,seperti ada lest tambahan atau kursus",1986-02-25,Jawa Barat,,3.0,Pegawai swasta,Tehnik / Computer
+281,2021-05-26 07:42:49.518714+00:00,2004026666357,2003024046181.0,Renovasi Rumah,untuk renovasi rumah kos dan kontrakan supaya cepat terpakai.,1973-04-07,DKI Jakarta,Menikah,2.0,Pegawai swasta,Kesehatan
+282,2021-03-30 00:49:05.900921+00:00,2004026263187,2003023827181.0,Modal usaha,Untuk tambahan operasional kerja handling import,1976-04-06,Jawa Timur,Menikah,,Pengusaha,Transportasi
+283,2021-02-03 02:22:46.078686+00:00,2004025858231,,Biaya pendidikan,,,DKI Jakarta,Menikah,0.0,Pegawai swasta,
+284,2021-08-16 05:56:01.354057+00:00,2004027235467,2003024402696.0,Modal usaha,Pembelian Alat YD2 untuk kebutuhan customer,1989-08-11,Jawa Timur,Menikah,3.0,,Sales / Marketing
+285,,2004026832699,2003024055382.0,Biaya pendidikan,Pinjaman ini saya gunakan untuk melunasi uang gedung anak saya sma,1968-12-26,Jawa Barat,,1.0,Pegawai negeri,Pendidikan
+286,2021-02-02 07:27:57.466515+00:00,2004025854121,,Modal usaha,untuk tambahan modal usaha dan pengembangan,1988-03-26,Jawa Timur,,2.0,,Service
+287,2021-10-31 02:02:36.820013+00:00,2004028019734,2003024928630.0,Kebutuhan sehari-hari,melengkapi kebutuhan sehari2. dan mencukupi kebutuhan pangan.,2000-09-12,Jawa Barat,Lajang,0.0,Pegawai swasta,
+288,,2004028029631,2003022904028.0,Kebutuhan sehari-hari,Pembelian biaya bulanan dan kebutuhan sehari hari,1992-10-23,,Lajang,0.0,Pegawai swasta,
+289,2021-08-21 22:24:11.744124+00:00,2004027287386,2003024307840.0,Modal usaha,buat modal usaha di rumah selain bekerja mau mengadakan sampingan,1993-10-29,Dki Jakarta,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+290,2021-08-19 15:45:59.209559+00:00,2004027267945,2003024424372.0,Modal usaha,saya ingin mulai usaha baru dan semoga aplikasi julo membantu saya,1993-07-29,Jawa Tengah,Menikah,2.0,,Staf Rumah Tangga
+291,2021-06-19 00:26:06.407194+00:00,2004026843724,2003022916223.0,Renovasi Rumah,dana buat renovasi rumah beli triplek 20 lembar,,Banten,Menikah,1.0,Pegawai swasta,Pendidikan
+292,2021-03-06 02:11:05.504966+00:00,2004026083268,2003022818736.0,Biaya pendidikan,,1978-10-10,Sumatera Utara,Menikah,5.0,Pegawai swasta,Konstruksi / Real Estate
+293,2021-10-18 10:37:20.225854+00:00,2004027856018,2003024012956.0,Kebutuhan sehari-hari,"buat kebutuhan sehari2, tolong dong di acc",1993-11-08,DKI Jakarta,,0.0,Pegawai swasta,Pabrik / Gudang
+294,2021-11-08 03:17:10.925372+00:00,2004028119486,2003024999245.0,Renovasi Rumah,bkin rumah dapur renovasi keramik.meja kursi,1991-08-01,Kalimantan Selatan,Menikah,2.0,Pegawai swasta,Transportasi
+295,2020-12-16 04:07:36.680715+00:00,2004025576523,2003023497984.0,,untuk menambah modal untuk divisi baru cargo,1986-06-08,Jawa Timur,Menikah,3.0,Pengusaha,Transportasi
+296,2021-11-05 08:46:04.510946+00:00,2004028087645,2003024976942.0,Kebutuhan sehari-hari,,1998-11-01,Jawa Barat,Lajang,0.0,,Perhotelan
+297,2021-03-06 02:19:26.610900+00:00,2004026083306,2003023735362.0,Biaya kesehatan,mengcover biaya pengobatan yang tidak masuk dalam jaminan kesehatan,1976-10-20,Jawa Barat,Menikah,2.0,Pegawai negeri,Kesehatan
+298,2021-11-11 16:33:18.664791+00:00,2004028178913,2003025035837.0,Modal usaha,untuk memulai modal usaha dalam bisnis kuliner,1990-08-07,Jawa Barat,Menikah,1.0,Freelance,Entertainment / Event
+299,2021-05-30 04:09:58.520672+00:00,2004026693951,2003024062939.0,Biaya kesehatan,karena saat ini saya mau operasi batu empedu mka saya memerlukan dana..,,Jawa Barat,Menikah,2.0,Pegawai negeri,Kesehatan
+300,2021-02-08 02:10:05.020992+00:00,2004025893024,,,merenovasi rumah untuk pemberaihan drainase dan pembuatan pagar dan teras rumah,1981-05-06,Papua Barat,Menikah,3.0,Pegawai swasta,Sales / Marketing
+301,2021-04-07 09:05:35.530651+00:00,2004026313568,2003023455220.0,Biaya pendidikan,Biaya untuk anak melanjutkan sekolah ke Sekolah Menengah Atas,1978-02-21,DKI Jakarta,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+302,2021-11-20 03:33:41.465720+00:00,2004028283418,2003022348471.0,Renovasi Rumah,pembelian material & bahan bangunan rumah,1988-02-16,Papua,,,Pegawai swasta,Konstruksi / Real Estate
+303,2021-04-26 14:12:41.739939+00:00,2004026472160,2003023933088.0,,untuk tambahan modal istri usaha jual beli online,1993-03-23,DKI Jakarta,Menikah,,Pegawai swasta,Service
+304,2021-02-08 01:29:15.754767+00:00,2004025892645,2003020680474.0,Modal usaha,menambah modal untuk usaha semakin maju dan berkembang,1993-11-17,DKI JAKARTA,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+305,2021-11-11 16:51:57.837282+00:00,2004028179014,2003022811623.0,Modal usaha,,2000-09-02,,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+306,2021-03-13 01:08:49.792462+00:00,2004026134257,,Renovasi Rumah,bikin teras rumah. membangun atau renovasi rumah,1988-12-12,JAWA BARAT,Menikah,0.0,Pegawai swasta,Pabrik / Gudang
+307,2021-11-07 13:34:50.160661+00:00,2004028114512,2003024516474.0,Kebutuhan sehari-hari,untuk service kendaraan bermotor milik pribadi,1997-07-31,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+308,2021-05-18 04:52:46.977929+00:00,2004026612800,2003022165360.0,Kebutuhan sehari-hari,ada kebutuhan mendadak yg harus diselesaikan,,Jawa Tengah,Menikah,,Pegawai swasta,Perbankan
+309,2021-06-17 14:51:05.231678+00:00,2004026834623,,Kebutuhan sehari-hari,untuk biaya sehari hari sampai menunggu gaji turun,1992-07-13,,Lajang,0.0,,
+310,2021-05-04 02:31:20.790439+00:00,2004026524022,2003023961824.0,Kebutuhan sehari-hari,,,Jawa Barat,,,Pegawai swasta,Pabrik / Gudang
+311,2020-12-29 10:53:07.820300+00:00,2004025644616,2003022996493.0,Kebutuhan sehari-hari,,1990-04-16,Banten,Menikah,2.0,Pegawai negeri,Perbankan
+312,2021-01-25 14:38:15.640216+00:00,2004025807097,2003022930472.0,,membeli hp anak belajar di rumah selama covid 19,1981-02-21,Jawa Barat,,2.0,Pegawai swasta,Tehnik / Computer
+313,2021-03-20 10:29:11.818553+00:00,2004026194106,2003023791065.0,Modal usaha,saya ingin membuka usaha jualan baju online,1995-01-27,Kepulauan Riau,Menikah,1.0,Pegawai swasta,Service
+314,2021-03-15 03:40:25.139008+00:00,2004026148999,2003023456637.0,Membeli elektronik,untuk membeli barang elektronil mesin cuci dikarenakan mesin cuci yang ada dirumah telah rusak,1989-04-26,,Menikah,1.0,Pegawai swasta,Perbankan
+315,,2004027057792,2003024149350.0,Biaya pendidikan,untuk bayar kekurangan bayar seragam sekolah,1990-04-09,Di Yogyakarta,Menikah,2.0,Pegawai swasta,Sales / Marketing
+316,2021-03-08 15:45:00.976928+00:00,2004026100105,2003021181130.0,Renovasi Rumah,sedang perlu buat memperbaiki tembok yang roboh,1989-05-22,,Janda / duda,1.0,Pegawai swasta,Sales / Marketing
+317,2021-01-25 02:58:03.954127+00:00,2004025803176,2003021332351.0,Renovasi Rumah,Untuk renovasi rumah mengganti atap bocor dan pembuatan pagar rumah,1973-09-27,Kalimantan Timur,Menikah,4.0,,Tehnik / Computer
+318,2021-06-20 08:35:53.371737+00:00,2004026853784,,Belanja online,Membeli peralatan elektronik berbasis online,1994-09-07,Banten,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+319,2021-09-10 07:36:33.130502+00:00,2004027466681,2003024554800.0,Kebutuhan sehari-hari,kebutuhan sehari hari..buat benerin hp..buat bayar kos,1997-07-27,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+320,,2004027607325,2003023399525.0,Kebutuhan sehari-hari,karena masih PPKM ekonomi masih susah .. tujuan pinjam untuk kebutuhan sehari hari,1996-01-01,Jawa Tengah,Menikah,,Freelance,Perawatan Tubuh
+321,2021-11-14 03:08:05.238345+00:00,2004028212364,2003025058083.0,Biaya pendidikan,"membiayai les. anak,beli.perlengkapan.sekolah",1975-10-07,Jawa Barat,Cerai,3.0,,Service
+322,2021-11-22 02:26:38.848499+00:00,2004028303566,,Biaya kesehatan,untuk modal usaha onlineshop saya. karena saya mau menambah bahan untuk jualan,1993-11-27,Sumatera Utara,Menikah,1.0,Pengusaha,Admin / Finance / HR
+323,2021-02-05 07:29:21.935138+00:00,2004025871252,2003023629251.0,Modal usaha,untuk renofasi rumah dan tambahan modal usaha,1972-06-10,Dki Jakarta,Menikah,2.0,Pengusaha,Pabrik / Gudang
+324,2021-05-08 02:22:39.873186+00:00,2004026553112,2003023978911.0,Renovasi Rumah,renovasi rumah karena menjelang lebaran supaya terlihat lebih rapih,1984-09-28,Jawa Timur,Menikah,0.0,,Service
+325,2021-11-22 04:02:08.359761+00:00,2004028304768,2003025120873.0,Renovasi Rumah,untuk memperbaiki atap rumah sy yg bocor,1986-02-01,Sulawesi Selatan,,1.0,Freelance,Sales / Marketing
+326,2021-09-08 08:04:38.084019+00:00,2004027443741,2003024539617.0,Kebutuhan sehari-hari,belanja sehari hari.......................,1988-07-09,DKI Jakarta,Lajang,0.0,Pegawai swasta,Perbankan
+327,2021-02-10 10:13:37.590756+00:00,2004025911725,2003023649471.0,Renovasi Rumah,,1999-06-09,Dki Jakarta,Menikah,3.0,Pegawai swasta,Tehnik / Computer
+328,2021-02-26 05:19:10.887506+00:00,2004026026728,2003022620171.0,Renovasi Rumah,mohon di acc. karena untuk renovasi rumah di saat musim hujan air masuk ke rumah. kami akan mencicil sesuai amanah,1994-09-20,,,1.0,Pegawai swasta,Kesehatan
+329,2020-12-27 10:31:56.700288+00:00,2004025632990,2003023523482.0,Membeli elektronik,,,DKI Jakarta,Menikah,,Pegawai swasta,Sales / Marketing
+330,2021-01-19 10:34:55.674720+00:00,2004025768121,2003022788021.0,Membeli kendaraan,,,,Lajang,0.0,Pegawai swasta,
+331,2021-01-16 19:26:33.764063+00:00,2004025750449,2003023573838.0,Kebutuhan sehari-hari,"betulin mobil, ganti ban dan service besar",1990-06-15,Dki Jakarta,Menikah,1.0,,
+332,2021-04-13 15:40:20.943193+00:00,2004026364834,2003023874940.0,Modal usaha,"Saya selain bekerja sedang membangun usaha penjualan online shop dengan nama Retamp Store,yang sudah berjalan dengan bentuk usaha penjualan pakaian,maka untuk itu pengajuan dana ini digunakan sebagai tambahan modal untuk menambah persediaan usaha saya,mohon bantuannya agar dibantu untuk pengajuan saya tersebut",1992-10-28,Dki Jakarta,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+333,2021-06-10 23:34:00.586324+00:00,2004026785172,2003020976649.0,Kebutuhan sehari-hari,,1996-11-15,DKI Jakarta,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+334,2021-02-28 04:33:51.158000+00:00,2004026041407,2003023715044.0,Biaya pendidikan,pembayaran biaya sekolah dan biaya rumah tangga lainnya,1973-08-06,DKI Jakarta,Menikah,3.0,,Admin / Finance / HR
+335,2021-03-01 06:08:21.435638+00:00,2004026048677,2003023433142.0,Membeli elektronik,,1986-09-04,Sumatera Utara,,2.0,Ibu rumah tangga,
+336,2021-01-25 02:10:57.834612+00:00,2004025802732,2003020696781.0,,Transportasi dan kebutuhan sehari - hari,1990-10-13,BANTEN,Lajang,0.0,Pegawai swasta,Service
+337,2021-10-15 23:29:21.713642+00:00,2004027832401,2003024798927.0,Renovasi Rumah,mau renovasi rumah agar terlihat layak untuk ditempati bersama keluarga,1986-05-11,DKI Jakarta,Lajang,0.0,Freelance,Transportasi
+338,2021-08-26 04:02:56.381110+00:00,2004027323499,,Modal usaha,saya berniat untuk berjualan baju untuk usaha sampingan saya,1999-09-03,Kalimantan Timur,Lajang,,Pegawai swasta,Tehnik / Computer
+339,2021-11-27 04:08:59.061211+00:00,2004028361801,2003024691990.0,Modal usaha,Buat modal dagang di pasar Gembrong lama,1972-12-04,DKI Jakarta,Menikah,2.0,Freelance,Perawatan Tubuh
+340,2021-06-14 11:50:35.656570+00:00,2004026811390,2003024133438.0,Modal usaha,untuk membuka usaha kecil.menjual berbagai macam barang.untuk memenuhi kebutuhan sehari-hari,1994-03-31,,Lajang,1.0,,Pabrik / Gudang
+341,2021-11-15 09:55:07.135078+00:00,2004028229898,2003025069739.0,Modal usaha,saya meminjam untuk menambah modal usaha saya karena efek pandemi berdampak kurang baik pada pekerjaan ini,1990-07-28,,Menikah,0.0,,Pendidikan
+342,2021-05-28 05:04:17.976171+00:00,2004026679236,2003023495013.0,Biaya kesehatan,,1994-01-14,Jawa Barat,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+343,2021-05-29 05:28:21.827853+00:00,2004026687357,2003023494552.0,Biaya pendidikan,"Buat biaya pendidikan,anak masuk sekolah",1989-06-28,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+344,2021-02-25 15:25:31.112125+00:00,2004026022724,2003022654544.0,,"perbaikan atap rumah yg bocor, jika hujan banjir di dlm rumah",1979-06-27,DKI Jakarta,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+345,2020-12-31 01:31:06.222411+00:00,2004025653324,2003023531762.0,Renovasi Rumah,membangun pintu rumah druang tamu fan paga besi,1974-11-08,Jawa Barat,Menikah,3.0,Pegawai swasta,Tehnik / Computer
+346,2021-02-16 03:33:58.895116+00:00,2004025947324,,Biaya pendidikan,untuk bayar biaya semester anak pertama kuliah di universitas Jember,1975-04-04,Jawa Timur,Menikah,2.0,Pegawai swasta,
+347,,2004027252741,2003024414614.0,Renovasi Rumah,ganti pintu rumah dan pasang plafon dan keramik,1987-08-29,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+348,2021-11-01 13:48:49.729932+00:00,2004028041371,2003024944397.0,Biaya pendidikan,"pembiayaan iuran bulanan sekolah , biaya untuk seokolah",1978-08-09,Jawa Barat,Menikah,2.0,Pegawai swasta,Kesehatan
+349,2021-09-29 11:45:16.941822+00:00,2004027647071,2003024678731.0,Biaya pendidikan,biaya pembayaran pendidikan anak sekolah dan uang kegiatan tahunan sekolah,1982-09-24,DKI Jakarta,Menikah,2.0,Pegawai swasta,Sales / Marketing
+350,2021-01-27 18:28:07.720026+00:00,2004025819311,2003022565436.0,,pendidikan anak anak kuliah di perguruan tinggi,1975-01-04,DKI Jakarta,,2.0,Pegawai swasta,
+351,2021-01-19 05:51:35.695087+00:00,2004025766646,2003023581541.0,Modal usaha,"saya sangat butuh modal usaha .namun karna usaha yang saya akan rintis ini hanyalah bejualan di rumah seperti jula jus,pop ice,dan Snack kecil-kecilan saya sangat butuh modal untuk membeli etalase nya,blender,dan segala kebutuhan untuk berjualan nya",1994-04-04,DKI Jakarta,Lajang,0.0,Pegawai swasta,
+352,2021-11-10 06:44:48.368096+00:00,2004028157433,2003025022518.0,Modal usaha,buka usaha di rumah tambahan belanja barang,1980-04-17,,Menikah,,Ibu rumah tangga,
+353,2021-06-02 03:07:19.467799+00:00,2004026717006,2003022279780.0,Kebutuhan sehari-hari,kebutuhan sehari hari.....................,1997-09-09,,Menikah,1.0,Pegawai swasta,Sales / Marketing
+354,2020-12-21 05:51:17.353720+00:00,2004025604305,2003020490634.0,Biaya pendidikan,untuk biaya pendidikan anak kulia dan renovasi rumah,1971-09-30,Banten,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+355,2021-03-13 11:24:32.457055+00:00,2004026138499,2003023762558.0,Membeli elektronik,MEMBELI BARANG ELEKTRONIK HANDPHONE DAN LAIN LAIN NYA,1994-01-12,Jawa Timur,Lajang,1.0,Pegawai swasta,Sales / Marketing
+356,,2004025631947,2003020881717.0,Renovasi Rumah,beli cat rumah karena ada bagian rumah yang harus di cat,1982-09-15,BANTEN,,2.0,Pegawai swasta,Tehnik / Computer
+357,,2004026677018,2003022263602.0,,membayar uang gedung & daftar ulang adik,1997-09-16,Jawa Barat,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+358,2021-03-26 07:51:00.037979+00:00,2004026238727,2003023814476.0,,,1988-11-04,Sumatera Barat,Menikah,,Pegawai swasta,Pendidikan
+359,2021-11-27 12:09:20.919817+00:00,2004028366894,2003025166136.0,Modal usaha,modal usaha jskskksks jsjkskkk.  jsksksk.,1987-04-04,Jawa Barat,Menikah,3.0,Pengusaha,Service
+360,2021-03-01 16:01:27.596032+00:00,2004026052540,,Biaya pendidikan,biaya daftar sekolah anak masuk SD favorit,1987-03-01,Jawa Barat,Menikah,,Pegawai swasta,Tehnik / Computer
+361,2021-11-23 02:09:43.622260+00:00,2004028315117,2003025128338.0,Kebutuhan sehari-hari,kebutuhan sehari-hari..biaya konsumtif...pembelian obt2an,,Jawa Tengah,Menikah,,Pegawai swasta,Tehnik / Computer
+362,2021-09-30 04:37:58.415283+00:00,2004027652770,2003024682913.0,Biaya pendidikan,Untuk menambah membayar SPP anak saya....,1985-08-05,Sulawesi Utara,Cerai,1.0,Pegawai swasta,Sales / Marketing
+363,2021-11-07 08:49:28.332663+00:00,2004028111619,2003024993554.0,Renovasi Rumah,renovasi rumah buat pagar rumah dan buat taman,1990-02-28,Jawa Tengah,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+364,2021-01-15 06:32:28.669582+00:00,2004025739911,2003023229691.0,Modal usaha,ingin memperbaiki sepeda motor yang rusak mendadak,,Jawa Barat,Menikah,1.0,Pegawai swasta,Konstruksi / Real Estate
+365,2021-03-10 06:16:43.202120+00:00,2004026111896,2003023748842.0,,membeli akat utk usaha wedding dan catering,1975-03-21,Banten,Menikah,,Pegawai swasta,Admin / Finance / HR
+366,2021-10-22 23:52:06.370632+00:00,2004027916214,2003024856480.0,Modal usaha,untuk modal usaha sampingan untuk berjualan online menambah penghasilan,1999-01-26,Jawa Barat,Menikah,1.0,Pegawai swasta,Transportasi
+367,,2004027647900,,Renovasi Rumah,"saya melakukan pengajuan pinjaman ini untuk biaya tambahan renovasi rumah. mulai dari cat tembok,bahan bangunan seperti semen dan pasir. mohon di bantu terima kasih.",1993-12-21,,Lajang,0.0,Pegawai swasta,Sales / Marketing
+368,2021-11-30 13:05:00.781398+00:00,2004028404514,2003024767546.0,Kebutuhan sehari-hari,kebutuhan sehari-hari dan belanja bulanan,1993-01-08,Banten,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+369,,2004025726441,2003023562069.0,Biaya pendidikan,untuk biaya tunggakan uang bulanan/spp anak,1980-04-05,Banten,Menikah,,Pegawai swasta,
+370,2021-04-29 10:26:48.076772+00:00,2004026493724,2003023854943.0,Renovasi Rumah,"untuk biaya tambahan renovasi rumah yang sebentar lagi akan selesai,",1985-06-19,,Menikah,3.0,Pegawai swasta,
+371,2021-09-25 01:48:57.871695+00:00,2004027609363,2003024651772.0,Biaya pendidikan,untuk membayar uang bangunan sekolah adik saya..,1995-08-21,Jawa Tengah,Lajang,0.0,Pegawai swasta,Perbankan
+372,2021-01-03 08:57:41.725933+00:00,2004025670424,2003022866352.0,Biaya pendidikan,untuk biaya pendidikan. mohon dibantu pengajuannya,1997-07-05,DKI Jakarta,Menikah,,Pegawai swasta,Admin / Finance / HR
+373,2021-03-19 10:50:00.512344+00:00,2004026187492,2003023787766.0,Kebutuhan sehari-hari,untuk membeli beberapa keperluan sehari-hari,1992-02-14,DI Yogyakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+374,2021-07-07 09:13:06.588922+00:00,2004026969034,,Biaya pendidikan,untuk biaya melanjutkan pendidikan S1 di perguruan tinggi medan,1990-09-20,,,2.0,Pegawai negeri,Pendidikan
+375,2021-03-15 17:31:27.248243+00:00,2004026155753,2003023771596.0,Modal usaha,"dagang pecel ayam dan pecel lele,ingin memperbesar usaha",1989-08-18,Banten,Menikah,3.0,Pegawai swasta,Pabrik / Gudang
+376,,2004027141194,2003021888820.0,Biaya kesehatan,biaya kesehatan. dan pengobatan berjalan,,DKI Jakarta,Lajang,0.0,Pegawai swasta,Service
+377,2021-04-04 02:18:24.833187+00:00,2004026291577,2003023161326.0,Kebutuhan sehari-hari,kebutuhan sehari-hari dan untuk modal dagang,1981-06-27,Jawa Barat,Menikah,2.0,Pegawai swasta,Konstruksi / Real Estate
+378,2021-10-02 07:05:47.784524+00:00,2004027686178,2003020727185.0,Modal usaha,untuk melanjutkan usaha yang tertunda Karena kurangnya modal saat pandemi,1987-05-08,Banten,Menikah,2.0,Pengusaha,
+379,2021-09-08 03:23:53.813150+00:00,2004027441004,2003022735195.0,Kebutuhan sehari-hari,perbaikan atau renovasi rumah akibat suka banjir,1981-07-20,Sulawesi Selatan,Lajang,0.0,Pegawai swasta,
+380,2021-01-20 08:57:32.992636+00:00,2004025774535,,Modal usaha,manambahi modal usaha jualan baju online,1994-10-11,Banten,Menikah,0.0,Pegawai swasta,Transportasi
+381,2021-01-04 04:34:31.279219+00:00,2004025674402,2003023338780.0,Modal usaha,"membuka laundry kiloan rumahan,dengan modal usaha pinjaman",1985-03-09,BANTEN,Menikah,1.0,Pegawai swasta,Kesehatan
+382,2021-01-03 12:07:59.003599+00:00,2004025671274,2003021726352.0,Modal usaha,"untuk membuka usaha frenchais,dan membutuhkan modal",1995-01-20,DKI Jakarta,Menikah,1.0,,Admin / Finance / HR
+383,2021-02-22 02:01:22.050281+00:00,2004025988853,2003023687024.0,Renovasi Rumah,Membuat garasi mobil dan merapikan halaman,1980-06-27,Bali,Menikah,1.0,Pegawai swasta,Sales / Marketing
+384,,2004028394307,2003021691417.0,,saya ingin menambah barang dagangan sehingga usaha saya sekarang ini bisa lebih berkembang,1988-03-17,Banten,Menikah,3.0,Pegawai swasta,Konstruksi / Real Estate
+385,2021-10-18 11:46:17.874877+00:00,2004027856683,2003023791578.0,Modal usaha,membuat usaha kesempatan di saat new normal ini mudah2n acc,1992-11-15,Jawa Barat,Lajang,0.0,Pegawai swasta,
+386,2021-06-12 01:34:13.705349+00:00,2004026793327,2003024122259.0,Membeli elektronik,membeli ac untuk di kamar dan ruang tamu,1982-05-07,Dki Jakarta,,,,Admin / Finance / HR
+387,2021-07-17 04:49:25.832095+00:00,2004027031670,2003024273222.0,Kebutuhan sehari-hari,untuk biaya sehari2 ketika sebelum gajian,,Jawa Barat,Menikah,1.0,Pegawai swasta,Sales / Marketing
+388,2021-05-10 01:07:30.471406+00:00,2004026566954,,Modal usaha,menambah modal buat stock jualan online mukena sejadah kurma dan perlengkapan haji,1978-12-11,Jawa Barat,Menikah,1.0,Pegawai negeri,Kesehatan
+389,2021-09-22 10:52:56.274674+00:00,2004027590645,2003024638773.0,Modal usaha,untuk membuka usaha di bidang elektronik,1995-01-05,Jawa Barat,,0.0,Pegawai swasta,Pabrik / Gudang
+390,2021-02-27 12:17:57.658492+00:00,2004026038292,2003022954346.0,Membeli elektronik,untuk keperluan mendesak yang harus diselesaikan segera,1996-01-28,Jawa Tengah,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+391,2021-02-04 10:39:53.373319+00:00,2004025866071,2003020729654.0,Renovasi Rumah,merenovasi atap yang bocor dan memngganti keramik lantai,1990-07-20,Bali,Menikah,,Pegawai swasta,Perbankan
+392,,2004026987366,2003024246685.0,Modal usaha,Mau buka bisnis sendiri dan membutuhkan modalnya,1998-04-28,Jawa Barat,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+393,2021-06-04 08:22:06.680639+00:00,2004026738463,2003024090103.0,Kebutuhan sehari-hari,"karena pandemi kebutuhan meningkat, jadi mohon pencairannya",1979-07-31,Sumatera Utara,Lajang,0.0,Pegawai swasta,Pendidikan
+394,2021-07-01 18:23:38.788054+00:00,2004026931444,,Modal usaha,Ingin Membuka Usaha Warung kecil-kecilan di rumah,1996-12-23,Jawa Barat,Menikah,0.0,Pegawai swasta,Pabrik / Gudang
+395,2021-02-09 14:46:07.210026+00:00,2004025905571,2003023415486.0,Kebutuhan sehari-hari,kebutuhan sehari-hari dan untuk memperbaiki pintu kamar mandi,1988-08-15,DKI Jakarta,Menikah,1.0,Pegawai swasta,Kesehatan
+396,2021-10-17 09:24:57.622004+00:00,2004027846168,2003024808058.0,Modal usaha,untuk modal usaha kripik melinjo dan kripik kulit melinjo,2000-07-14,Jawa Barat,Menikah,0.0,Pegawai swasta,Admin / Finance / HR
+397,2021-07-02 12:32:49.182240+00:00,2004026937319,2003023387883.0,Modal usaha,mau buka usaha kuliner seperti jus buah dan makanan ringan,1988-10-30,Jawa Barat,Menikah,2.0,Pegawai swasta,Transportasi
+398,2021-09-24 23:07:09.533672+00:00,2004027608615,2003024651292.0,Modal usaha,untuk modal usaha biar jadi maju untuk berjualan modal usaha dagang,1977-02-15,Jawa Barat,Menikah,4.0,Pegawai swasta,Pabrik / Gudang
+399,2021-08-03 06:36:48.091015+00:00,2004027145302,2003024281785.0,Renovasi Rumah,membetulkan atap yang bocor bagian dapur,1992-05-06,Dki Jakarta,Menikah,0.0,Pegawai swasta,Kesehatan
+400,2021-11-23 03:40:42.988838+00:00,2004028316059,2003025128995.0,Kebutuhan sehari-hari,Kebutuhan sehari-hari untuk sampai akhir bulan,,,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+401,2021-09-15 06:32:41.742502+00:00,2004027522788,2003024592327.0,Biaya pendidikan,biaya pendidikan anak yang masih kurang  3 juta,1986-07-08,Kalimantan Timur,Menikah,1.0,Ibu rumah tangga,
+402,2021-11-05 14:38:36.640242+00:00,2004028091263,2003024979417.0,Biaya pendidikan,membantu untuk membayar cicilan sekolah dan bayaran bulanan,1996-12-17,Jawa Barat,Menikah,1.0,Pegawai swasta,
+403,2021-10-14 14:44:24.830166+00:00,2004027820962,2003024371788.0,,"beli baja ringan, gypsum, semen,pasir, cat , keramik",1990-08-17,Jawa Barat,Menikah,1.0,Pegawai swasta,
+404,2021-01-11 02:32:27.017137+00:00,2004025712031,2003022224946.0,Modal usaha,"karena buat nambah modal usaha,buat membeli dagangan",1979-12-10,DKI Jakarta,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+405,,2004026032715,2003023710727.0,Membeli elektronik,Tambahan untuk pembelian barang elektronik,1993-04-04,,Menikah,1.0,Pegawai swasta,Pendidikan
+406,,2004027333646,2003020752646.0,Transfer ke Keluarga/Teman,saya ingin mengirim keluarga saya karena suatu kebutuhan,1989-03-08,DKI Jakarta,Menikah,2.0,Pegawai swasta,Admin / Finance / HR
+407,2021-09-24 13:26:11.869385+00:00,2004027606727,,Biaya pendidikan,bayar uang kuliah adik dan juga beli laptop untuk persiapan magang,1996-06-05,DKI Jakarta,Lajang,0.0,Pegawai swasta,
+408,2021-01-17 03:08:32.847112+00:00,2004025751732,2003023574451.0,Belanja online,Ingin Belanja Barang Online di Tokopedia dan lainnya.,1993-07-04,Banten,Lajang,0.0,Pegawai swasta,Sales / Marketing
+409,2021-09-07 02:17:44.673570+00:00,2004027431612,2003021294551.0,Biaya kesehatan,untuk keperluan pengobatan rawat jalan....,1996-01-27,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+410,2021-05-04 02:23:34.910138+00:00,2004026523956,2003023961786.0,,Untuk memenuhi kebutuhan sehari hari dan lainnya,1983-04-10,Jawa Barat,Lajang,0.0,Pegawai swasta,Pendidikan
+411,2020-12-30 07:25:48.400238+00:00,2004025649435,2003021057902.0,Renovasi Rumah,untuk penambahan pembelian material barang untuk renovasi rumah,1984-03-13,,Menikah,2.0,Pegawai negeri,Admin / Finance / HR
+412,2021-05-30 22:11:06.005066+00:00,2004026699875,2003023950141.0,Belanja online,cash flow rekening dan pembelian elektronik,1978-08-05,DI Yogyakarta,Menikah,2.0,Pengusaha,Service
+413,2021-10-12 16:13:53.496445+00:00,2004027801859,2003024029951.0,Biaya pendidikan,biaya pendidikan anak sekolah dan tambahan modal usaha,1985-06-19,Jawa Barat,Menikah,2.0,Pengusaha,Entertainment / Event
+414,2021-04-27 05:52:37.430814+00:00,2004026477517,2003023936113.0,,membeli barang elektronik laptop mau keperluan kerja,1987-08-27,Jawa Barat,Menikah,1.0,Pegawai swasta,Tehnik / Computer
+415,2021-06-05 01:38:42.190181+00:00,2004026743296,2003022149585.0,Renovasi Rumah,renovasi kamar mandi mau pasang keramik dan cet  dinding,1984-07-03,JAWA BARAT,Menikah,1.0,Pegawai swasta,
+416,2021-06-05 05:56:45.283488+00:00,2004026745270,2003022319799.0,Modal usaha,memperbesar dan menambah cabang usaha minuman Boba saya,1995-02-19,JAWA BARAT,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+417,2021-02-15 14:06:26.150400+00:00,2004025944408,2003023664652.0,Modal usaha,lagi usaha jilbab dan baju daster online fan offline,,Jawa Barat,,2.0,Pegawai negeri,Kesehatan
+418,2021-11-05 00:56:47.973842+00:00,2004028082208,2003024973232.0,Modal usaha,"untuk modal usaha, dan memperbaiki ekonmi",1994-10-18,Jawa Barat,Menikah,1.0,Pegawai swasta,Kesehatan
+419,2021-10-16 03:27:43.212601+00:00,2004027834188,2003021922784.0,Kebutuhan sehari-hari,"untuk keperluan sehari hari, untuk beli beras , minyak dan lain lain",,DKI Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+420,2021-10-23 01:50:06.602827+00:00,2004027917286,2003024857210.0,,,,,Menikah,2.0,Pengusaha,Pabrik / Gudang
+421,2021-10-15 04:30:01.476160+00:00,2004027825172,2003024435655.0,Renovasi Rumah,renop rumah yg sudah retak2...takut roboh,1985-01-27,Jawa Barat,Menikah,1.0,,Staf Rumah Tangga
+422,2021-11-12 03:41:23.144887+00:00,2004028182477,2003025038196.0,Modal usaha,"sebagai tambahan modal usaha, karena selain bekerja dikantor saya punya usaha di rumah",1990-07-11,DI Yogyakarta,Menikah,1.0,Pegawai swasta,Pendidikan
+423,2021-06-08 18:37:04.059210+00:00,2004026769171,2003021311143.0,,"ingin tambah modal usaha, ingin menambah cabang baru agar omset bisa bertambah",1996-11-08,,Lajang,0.0,Pegawai swasta,Sales / Marketing
+424,2021-04-15 03:03:32.680479+00:00,2004026376617,2003021483747.0,Kebutuhan sehari-hari,tujuannya adalah untuk memenuhi kebutuhan sehari-hari,1998-01-25,Banten,Lajang,0.0,Pegawai swasta,Service
+425,2021-09-05 09:50:02.468008+00:00,2004027416829,2003024168735.0,Biaya pendidikan,"pembayaran daftar ulang, sidang, dan KKN",1996-11-02,DKI Jakarta,Lajang,0.0,Pegawai swasta,Kesehatan
+426,2021-01-27 02:27:22.373126+00:00,2004025815055,2003022405519.0,Modal usaha,untuk penambahan modal usaha frozenfood online,1989-03-12,,Menikah,,Pegawai swasta,
+427,2021-11-05 08:49:16.339425+00:00,2004028087675,2003024322877.0,Kebutuhan sehari-hari,untuk tambahan modal usaha dibidang entertain,1983-02-09,Banten,Lajang,0.0,Freelance,Entertainment / Event
+428,2021-07-27 05:12:10.702467+00:00,2004027095610,2003022831823.0,Biaya kesehatan,,1997-10-28,Jawa Barat,Lajang,0.0,Pegawai swasta,Hukum / Security / Politik
+429,2021-04-30 09:29:08.077459+00:00,2004026500309,2003023466163.0,Renovasi Rumah,buat nambah kekurangan renovasi ruangan dapur,1989-02-13,Banten,Menikah,2.0,Pegawai swasta,Sales / Marketing
+430,2021-04-01 04:58:19.141128+00:00,2004026275326,2003023074179.0,Renovasi Rumah,untuk perbaikan atap rumah pergantian asbes,,DKI Jakarta,Menikah,1.0,Pegawai negeri,Konstruksi / Real Estate
+431,2021-10-30 11:44:38.468154+00:00,2004028013995,2003024924442.0,Modal usaha,"Saya selaku wirausaha yang bergerak di bidang makanan memerlukan tambahan modal untuk meningkatkan daya jual beli, dan saya percaya JULO akan membantu mengatasi nya. Terima Kasih.",1992-01-26,Riau,Lajang,1.0,Pengusaha,Admin / Finance / HR
+432,2021-10-26 09:25:43.088394+00:00,2004027955980,2003024883206.0,Renovasi Rumah,untuk bayar bahan bangunan dan tukang u tuk membuat dapur,1990-12-05,,,0.0,Pegawai swasta,Sales / Marketing
+433,2021-03-23 14:52:02.352740+00:00,2004026217276,2003020810610.0,Biaya pendidikan,biaya pendidikan ambil course menambah ilmu,1972-02-05,DKI Jakarta,Lajang,0.0,Pegawai swasta,Sales / Marketing
+434,2021-10-29 22:46:19.837102+00:00,2004028003963,2003024916896.0,Modal usaha,untuk menambah modal usaha saya yang bergerak di bidang sprei.. pembayaran cicilan di bantu suami yang bekerja di perusahaan lain.. ini usaha saya sendiri denaya_homemade,,Kalimantan Timur,,2.0,Pengusaha,
+435,2021-08-13 00:43:19.557435+00:00,2004027212202,2003024133878.0,Kebutuhan sehari-hari,untuk kebutuhan keluarga dan emergency harus segera kami lakukan,1994-11-11,,,,Pegawai swasta,Pabrik / Gudang
+436,2021-06-07 06:22:21.800577+00:00,2004026757651,2003021631695.0,Membeli elektronik,untuk membeli barang elektronik (kulkas mini),1998-01-15,Jawa Barat,,0.0,Pegawai swasta,
+437,2021-03-15 09:25:04.364374+00:00,2004026152942,2003022046490.0,,"untuk modal usaha , buka warung manisan . dan mau membuka konter . biar uang jadi bertambah",1993-12-13,Bengkulu,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+438,2021-02-19 13:51:14.075758+00:00,2004025974960,2003023679997.0,Biaya pendidikan,,1977-06-02,Jawa Barat,Menikah,,,Pabrik / Gudang
+439,2021-04-11 15:28:48.113694+00:00,2004026347249,,Modal usaha,untuk memulai usaha jasa service peralatan elektronik,,Jawa Timur,Menikah,,Pegawai swasta,Konstruksi / Real Estate
+440,2021-05-30 04:15:16.821143+00:00,2004026693992,2003022447379.0,Biaya liburan / umroh,biaya tambahan tedesak untuk pergi ke ponti,1994-03-07,Banten,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+441,2021-02-23 07:24:14.428774+00:00,2004025999506,2003023692629.0,Modal usaha,dalam masa pandemi ini tanaman hias menjadi primadona sehingga membuka peluang untuk berjualan tanaman hias,1962-03-08,Jawa Barat,Menikah,3.0,Pegawai negeri,Pendidikan
+442,2021-03-15 13:46:52.970126+00:00,2004026154734,2003023771054.0,,melunasi utang lain...sama buat usaha..dan buat biaya sekolah,1980-05-15,DKI Jakarta,Menikah,3.0,,Service
+443,2021-09-09 06:09:51.315821+00:00,2004027450055,2003024543687.0,Biaya pendidikan,untuk biaya pendidikan adik saya ajaran baru tatap muka,1995-05-05,,Lajang,1.0,Pegawai swasta,Pabrik / Gudang
+444,2021-01-29 15:09:45.688163+00:00,2004025830701,2003020300323.0,Modal usaha,untuk modal usaha online berupa makanan sehari hari.,,DKI Jakarta,Lajang,0.0,,
+445,2021-02-12 00:02:00.456865+00:00,2004025921697,2003023654214.0,Kebutuhan sehari-hari,untuk mencukupi kebutuhan harian. dan apabila membutuhkan dana urgent,1995-10-20,Jawa Barat,Lajang,0.0,Pegawai swasta,Sales / Marketing
+446,2021-09-19 01:43:50.345396+00:00,2004027561815,2003024619105.0,Renovasi Rumah,mau perbaiki rumah Karena masih Ada yg belum selesai,1995-08-01,Sumatera Barat,Lajang,,Pegawai swasta,Admin / Finance / HR
+447,2021-06-25 20:45:44.882240+00:00,2004026888950,2003024120900.0,Membayar hutang lainnya,melunasi hutang piutang yang ada dengan 1 pinjaman,1994-06-15,DKI Jakarta,Lajang,0.0,Pegawai swasta,Perbankan
+448,2021-03-28 00:34:54.030875+00:00,2004026249499,2003023819974.0,Kebutuhan sehari-hari,buat kebutuhan saya sehari hari karna saya tulang punggu keluarga adik saya butuh biaya buat sekolah dan bapa saya sudah meninggal,1995-03-12,Jawa Barat,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+449,2021-11-06 03:13:24.211691+00:00,2004028095798,2003021827267.0,,"modal usaha pakan hewan,ikan,burung,ayam",1987-05-27,Jawa Barat,Menikah,2.0,Pegawai swasta,
+450,2021-06-13 06:38:56.238556+00:00,2004026802087,2003024127726.0,,,2000-01-16,Jawa Barat,Lajang,0.0,,Tehnik / Computer
+451,2021-06-25 11:49:15.152680+00:00,2004026887205,2003024182303.0,Kebutuhan sehari-hari,modal sehari hari.u tuk kebutuhan lain dan lain nya,1995-11-24,Jawa Barat,Menikah,,Pegawai swasta,Sales / Marketing
+452,2021-01-13 07:36:33.682295+00:00,2004025724999,2003023450242.0,Modal usaha,untuk tambahan modal usaha... nambah barang..,1986-01-07,JAWA BARAT,,2.0,Pengusaha,Pabrik / Gudang
+453,2021-05-06 02:47:53.480400+00:00,2004026540462,2003021205636.0,,saya sangat butuh untuk kelangsungan pendidikan anak saya,1983-02-16,DKI Jakarta,Menikah,2.0,Pegawai negeri,Service
+454,2021-10-07 02:51:18.875842+00:00,2004027742396,2003024740491.0,Biaya kesehatan,"mama lagi sakit, dan butuh dana secepatnya biar bisa kembali pulih",1995-12-16,DKI Jakarta,,0.0,Pegawai swasta,
+455,2021-06-08 14:27:13.309674+00:00,2004026768245,2003024106828.0,Renovasi Rumah,Perbaikan Dapur dan Buat Pagar Depan Rumah,,DKI Jakarta,Menikah,1.0,Pegawai swasta,Konstruksi / Real Estate
+456,2021-10-20 07:36:03.336720+00:00,2004027880965,2003024832015.0,Modal usaha,untuk buka usaha sampingan supaya dapat penghasilan lain,1985-09-09,Jawa Barat,Menikah,1.0,Pegawai swasta,Sales / Marketing
+457,2021-03-26 14:58:02.617641+00:00,2004026240927,2003020825887.0,Membeli elektronik,"mau beli handphone karna handphone yang lama rusak, handphone buat anak sekolah",1980-11-05,DKI Jakarta,,1.0,Pegawai swasta,Admin / Finance / HR
+458,2021-04-23 12:40:23.453195+00:00,2004026447437,2003022997871.0,Kebutuhan sehari-hari,untuk kebutuhan sehari hari dan renovasi rumah,1992-02-09,Jawa Timur,Lajang,0.0,,Sales / Marketing
+459,2021-04-29 06:22:30.523142+00:00,2004026492084,2003023453957.0,Renovasi Rumah,untuk menambah biaya kekurangan belanja bangunan,1984-04-08,DKI Jakarta,Menikah,2.0,Pegawai swasta,Tehnik / Computer
+460,2021-09-15 12:22:35.718737+00:00,2004027527565,2003024595504.0,Renovasi Rumah,renovasi rumah bagian getengnya karena kalo hujan bocor,1984-07-30,DKI Jakarta,Menikah,1.0,Pegawai negeri,Admin / Finance / HR
+461,2021-05-02 22:13:36.553205+00:00,2004026515566,2003023566840.0,Renovasi Rumah,Untuk Renovasi Rumah Pembuatan Kamar Utama,1993-03-09,Jawa Tengah,Menikah,1.0,Pegawai swasta,Admin / Finance / HR
+462,2021-08-02 22:09:58.949594+00:00,2004027142513,2003024343227.0,Membeli kendaraan,dipergunakan untuk menambah dana pembelian kendaraan,1989-07-23,Lampung,Menikah,2.0,Pegawai negeri,Perbankan
+463,2021-10-19 04:08:53.884707+00:00,2004027864673,2003021592575.0,Kebutuhan sehari-hari,untuk memenuhi kebutuhan sehari-hari dan akan digunakan untuk membeli kebutuhan pokok.,1986-08-24,Jawa Barat,Menikah,3.0,Pegawai swasta,
+464,2021-02-12 18:41:45.951995+00:00,2004025926702,2003023656393.0,Kebutuhan sehari-hari,Untuk Keperluan Pribadi Sehari-hari dan Untuk Investasi Kedepannya,1996-08-02,Jawa Barat,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+465,2021-10-21 13:11:27.725299+00:00,2004027897829,2003024843739.0,Modal usaha,untuk penambahan modal usaha agar lebih berkembang,1995-10-16,Jawa Barat,Menikah,2.0,Pegawai swasta,Hukum / Security / Politik
+466,2021-09-19 11:32:38.007234+00:00,2004027566941,2003024622548.0,,,1988-08-17,,Menikah,2.0,Pegawai swasta,Sales / Marketing
+467,2021-09-01 06:10:16.231052+00:00,2004027381789,,Modal usaha,saya mau buka usaha fried chiken frenchies hisana saya minjem karna saya kekurangan modal isaha thanks,1991-10-08,,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+468,2021-03-18 03:03:19.377211+00:00,2004026175140,2003021796798.0,,untuk bantu tambahan biaya kuliah adik karna sudah semester akhir,,JAWA BARAT,Menikah,,Pegawai swasta,Service
+469,2021-01-10 10:29:37.666667+00:00,2004025709187,2003023554820.0,Kebutuhan sehari-hari,"keperluan akhir bulan, keperluan anak anak",1995-06-03,,Menikah,1.0,Pegawai swasta,Kesehatan
+470,2021-02-12 04:11:09.060114+00:00,2004025922911,2003023654744.0,Biaya kesehatan,Untuk pembayaran  medical check up  dan obat obatan,1995-08-07,Dki Jakarta,Lajang,0.0,Pegawai swasta,Transportasi
+471,2021-11-02 03:22:02.621229+00:00,2004028046639,2003024947975.0,,untuk pembayaran sekolah dan beli buku dan beli seragam,1969-11-10,Jawa Barat,Menikah,4.0,Pegawai swasta,Pabrik / Gudang
+472,2020-12-13 02:57:01.348033+00:00,2004025560801,2003023491027.0,Modal usaha,memulai usaha online berjualan masker online,1984-04-18,Dki Jakarta,Menikah,1.0,,Sales / Marketing
+473,2021-08-03 09:09:59.672041+00:00,2004027146146,2003022606271.0,Modal usaha,usaha kecil kecil kreditin barang elektronik,1988-12-11,Jawa Barat,Janda / duda,3.0,,Pabrik / Gudang
+474,2021-01-07 06:57:36.470399+00:00,2004025693298,2003022963753.0,Renovasi Rumah,renovasi genteng rumah yang bocor soalnya sekarang lagi musim hujan,1983-09-04,DKI Jakarta,Menikah,,,Kesehatan
+475,2021-05-30 16:59:03.256364+00:00,2004026699195,2003023851135.0,Modal usaha,untuk modal buka usaha ketring dan ayam bakar,1995-10-29,Jawa Tengah,Lajang,0.0,Pegawai swasta,Service
+476,2021-08-03 00:27:10.613477+00:00,2004027142844,2003023807947.0,Kebutuhan sehari-hari,"untuk kebutuhan sehari-hari yang, dan untuk membeli kebutuhan lainnya",2000-08-01,Banten,Lajang,0.0,,Sales / Marketing
+477,2021-02-18 01:05:03.350360+00:00,2004025963111,2003023674272.0,Modal usaha,rencana saya ingin buka praktek jadi ini untuk modal usaha buka praktek,1986-07-29,Jawa Barat,Menikah,1.0,Pegawai swasta,Kesehatan
+478,2020-12-15 16:31:48.807889+00:00,2004025574618,2003022578685.0,Renovasi Rumah,tujuan untuk renovasi rumah dan lain lain,1993-12-19,DKI Jakarta,Lajang,0.0,Pegawai swasta,Service
+479,2021-02-02 14:39:14.987947+00:00,2004025856536,2003022584312.0,Membeli elektronik,"pembelian elektronik rumah tangga, mesin cuci dan kulkas",1981-01-24,Jawa Barat,Menikah,2.0,Pegawai swasta,
+480,2021-10-15 07:46:44.744899+00:00,2004027827219,2003021888354.0,Renovasi Rumah,akan merenovasi rumah pada bagian dapur dan pelebaran garasi,1983-11-26,DKI Jakarta,,3.0,Pegawai swasta,Sales / Marketing
+481,2021-06-12 07:35:56.652429+00:00,2004026795874,2003021879670.0,Membayar hutang lainnya,melunasi hutang lain untuk dijadikan satu cicilan,1993-07-18,Sumatera Selatan,Lajang,0.0,Pegawai swasta,Transportasi
+482,2021-05-26 07:18:57.334420+00:00,2004026666203,2003024046084.0,Modal usaha,untuk modal usaha jualan pakaian biar ada dana tambahan,1990-11-23,Kalimantan Timur,Lajang,0.0,Pegawai swasta,Konstruksi / Real Estate
+483,2021-09-02 07:02:39.211419+00:00,2004027390597,2003023398786.0,Biaya pendidikan,"biaya pelatihan anak belajar bahasa inggris, toefl",1967-03-11,Jawa Tengah,Menikah,2.0,Pegawai swasta,Tehnik / Computer
+484,2021-08-12 09:51:33.473465+00:00,2004027209407,2003024385189.0,,tujuan saya meminjam untuk berobat kedokter spesialis/rumah sakit,1994-04-08,Dki Jakarta,Menikah,1.0,Pegawai swasta,Service
+485,2021-10-12 07:44:03.807558+00:00,2004027798598,2003024776961.0,Modal usaha,dibuat modal usaha dirumah sama dikantor,2000-04-09,Jawa Timur,Lajang,0.0,Pegawai swasta,Admin / Finance / HR
+486,2021-04-06 06:42:17.456556+00:00,2004026305876,2003023818168.0,Modal usaha,untul menambah modal usaha kue yang saya jalankan saat ini sya kekurangan modal,,Bali,Menikah,0.0,Pegawai negeri,Kesehatan
+487,2021-05-20 12:19:33.712838+00:00,2004026629475,2003020932151.0,Modal usaha,ingin membuka usaha online  fashion dan kosmetik,1989-11-05,Jawa Barat,Menikah,2.0,Pegawai swasta,Pabrik / Gudang
+488,,2004026930945,2003022231383.0,Modal usaha,jualan sembako sama buat nambah nambah modal..,1991-10-30,Kalimantan Timur,,0.0,Pegawai swasta,Service
+489,2021-05-14 10:23:49.073720+00:00,2004026590791,2003024001955.0,,buat transport makan dan segalanya dan sehari-hari,1994-01-27,DKI Jakarta,Lajang,0.0,Pegawai swasta,Service
+490,2020-12-30 02:23:24.262759+00:00,2004025647365,2003022681775.0,Modal usaha,untuk menambah modal usaha keluarga dan modal usaha pribadi.. oleh karena itu sya mengajukan pinjaman ini,1993-11-09,Banten,Lajang,0.0,Pegawai swasta,Pabrik / Gudang
+491,2021-04-02 09:59:06.048089+00:00,2004026283775,2003023835969.0,Renovasi Rumah,renovasi rumah perbaikan atap rumah bocor,1982-10-12,Dki Jakarta,Menikah,1.0,Pegawai swasta,Pabrik / Gudang
+492,2021-02-16 09:14:30.426871+00:00,2004025950383,2003023667607.0,Renovasi Rumah,renovasi rumah harus dilakukan segera karena bocor dan akan ditempati kembali. dana perbaikan masih kurang,1972-05-14,Jawa Barat,Menikah,3.0,Pengusaha,Transportasi
+493,2021-05-06 04:04:23.798351+00:00,2004026541054,2003023971833.0,Kebutuhan sehari-hari,,1994-02-05,Jawa Barat,Menikah,0.0,Pegawai swasta,Service
+494,2021-06-09 02:39:48.937232+00:00,2004026770549,2003023874771.0,Kebutuhan sehari-hari,selamat pagi julo saya mengajukan limit julo karena julo sudah terpercaya dan saya mengajukan limit dijulo untuk kebutuhan sehari hari saya semoga kita bisa bekerja sama sebagai debitur dan kreditur terima kasih julo,1992-04-11,Jawa Barat,,0.0,Pegawai swasta,Hukum / Security / Politik
+495,2021-03-11 03:39:05.688931+00:00,2004026118497,2003023752181.0,Biaya kesehatan,untuk biaya kesehatan orang tua dan membeli obat untuk orang tua,1999-10-29,Jawa Barat,Lajang,0.0,Pegawai swasta,Tehnik / Computer
+496,2021-03-24 05:31:55.764238+00:00,2004026221387,2003023660704.0,Kebutuhan sehari-hari,"untuk tambahan nikah, dan kebutuhan sehari hari kedepannya",1997-09-22,,Lajang,0.0,Pegawai swasta,Kesehatan
