@@ -27,8 +27,8 @@ The project requires the following dependencies:
 2. SQL Alchemy
 3. Seaborn
 4. Matplotlib
-4. Scikitlearn
-3. XGBoost
+4. Scikit-learn
+3. XGBoost Classifier
 
 ## Credits
 This project was developed by Immanuel Ambhara as part of a technical assignment for a Data Scientist job.
